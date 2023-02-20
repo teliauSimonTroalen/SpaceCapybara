@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_BreakablePlateform.uasset",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Door.uasset",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_PressurePlate.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/Gm_ToyGameMod.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Game/Gm_ToyGameMod.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
