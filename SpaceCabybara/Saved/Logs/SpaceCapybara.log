@@ -888,3 +888,310 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.20-13.56.35:357][  0]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 72.275s, FTSRRejectShadingCS [WorkerTime=61.134s], FTSRRejectShadingCS [WorkerTime=6.887s], FVirtualShadowMapProjectionCS [WorkerTime=1.600s], FTSRUpdateHistoryCS [WorkerTime=0.594s], FTSRDilateVelocityCS [WorkerTime=0.403s], FTSRDilateVelocityCS [WorkerTime=0.380s], FCopyCubemapToCubeFacePS [WorkerTime=0.334s], FTemporalAACS [WorkerTime=0.301s], FTemporalAACS [WorkerTime=0.299s], FRectLightAtlasVS [WorkerTime=0.247s]
 [2023.02.20-13.56.35:690][  0]LogShaderCompilers: Display: Worker (3/5) finished batch of 10 jobs in 72.067s, FTSRRejectShadingCS [WorkerTime=65.014s], FSSDSpatialAccumulationCS [WorkerTime=2.705s], FVirtualShadowMapProjectionCS [WorkerTime=1.471s], FTSRUpdateHistoryCS [WorkerTime=0.574s], FTSRUpdateHistoryCS [WorkerTime=0.541s], FTSRResolveHistoryCS [WorkerTime=0.381s], FRayTracingBuildInstanceBufferCS [WorkerTime=0.360s], FTSRResolveHistoryCS [WorkerTime=0.346s], FCubeDownsamplePS [WorkerTime=0.339s], FRectAtlasCopyTexturePS [WorkerTime=0.239s]
 [2023.02.20-13.56.52:800][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 290F921C268193955312988EFC3BA44F85D38587), compiling. 
+[2023.02.20-13.56.56:775][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.20-13.56.56:775][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.20-13.56.56:775][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.20-13.56.56:775][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.20-13.56.56:775][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.20-13.56.56:907][  0]LogNetVersion: SpaceCapybara 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 533993187)
+[2023.02.20-13.56.57:398][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.02.20-13.56.57:398][  0]LogUObjectAllocator: 5786384 out of 0 bytes used by permanent object pool.
+[2023.02.20-13.56.57:398][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.20-13.56.57:439][  0]LogSlate: Border
+[2023.02.20-13.56.57:439][  0]LogSlate: BreadcrumbButton
+[2023.02.20-13.56.57:439][  0]LogSlate: Brushes.Title
+[2023.02.20-13.56.57:439][  0]LogSlate: Default
+[2023.02.20-13.56.57:439][  0]LogSlate: Icons.Save
+[2023.02.20-13.56.57:439][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.20-13.56.57:439][  0]LogSlate: ListView
+[2023.02.20-13.56.57:439][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.20-13.56.57:439][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.20-13.56.57:439][  0]LogSlate: TableView.DarkRow
+[2023.02.20-13.56.57:439][  0]LogSlate: TableView.Row
+[2023.02.20-13.56.57:439][  0]LogSlate: TreeView
+[2023.02.20-13.56.57:868][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 23B2E2094C960C45A987179319CAEC09 | Instance: CF43EE3B4BDA36CEDBF490800EA60BE6 (PCMASTEURRACE-20264).
+[2023.02.20-13.56.57:940][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.20-13.56.57:940][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.20-13.56.57:959][  0]LogUdpMessaging: Display: Added local interface '10.2.164.221' to multicast group '230.0.0.1:6666'
+[2023.02.20-13.56.58:203][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.20-13.56.58:227][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.02.20-13.56.58:478][  0]LogPython: Using Python 3.9.7
+[2023.02.20-13.57.00:650][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.20-13.57.00:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-13.57.00:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-13.57.01:031][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.20-13.57.01:810][  0]SourceControl: Source control is disabled
+[2023.02.20-13.57.01:815][  0]SourceControl: Source control is disabled
+[2023.02.20-13.57.01:820][  0]SourceControl: Source control is disabled
+[2023.02.20-13.57.01:826][  0]LogUProjectInfo: Found projects:
+[2023.02.20-13.57.01:886][  0]LogCollectionManager: Loaded 0 collections in 0.006182 seconds
+[2023.02.20-13.57.01:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Saved/Collections/' took 0.00s
+[2023.02.20-13.57.01:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Developers/telia/Collections/' took 0.00s
+[2023.02.20-13.57.01:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Collections/' took 0.00s
+[2023.02.20-13.57.02:713][  0]LogEngine: Initializing Engine...
+[2023.02.20-13.57.02:729][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.20-13.57.02:731][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.02.20-13.57.02:735][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 0E9698C4697E872CBAA750A81F13B17C7CEA9AAD), compiling. Is special engine material.
+[2023.02.20-13.57.02:741][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F94896208BB2C48320F28BA2B200D9B09C2924D7), compiling. Is special engine material.
+[2023.02.20-13.57.02:745][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: C69B3513A9BCE1B5877E8C1F14F444F2E516C54A), compiling. Is special engine material.
+[2023.02.20-13.57.02:754][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 6A6B6CA42A1CFE73D98380E44359090BD1019353), compiling. Is special engine material.
+[2023.02.20-13.57.02:758][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7860C6F9C70533941C3C28714AFF4744F9ACB6BC), compiling. Is special engine material.
+[2023.02.20-13.57.02:763][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 8163769FA55201E2D8B7175BC0E56F9348F0AC32), compiling. Is special engine material.
+[2023.02.20-13.57.02:899][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.20-13.57.02:925][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.57.02:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.20-13.57.02:963][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.20-13.57.02:963][  0]LogInit: Texture streaming: Enabled
+[2023.02.20-13.57.03:003][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2023.02.20-13.57.03:011][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-13.57.03:046][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-13.57.03:046][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-13.57.03:061][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-13.57.03:061][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-13.57.03:062][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-13.57.03:549][  0]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.02.20-13.57.03:550][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-13.57.03:552][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-13.57.03:552][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-13.57.03:553][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.20-13.57.03:553][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.20-13.57.03:554][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.20-13.57.03:554][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.20-13.57.03:554][  0]LogInit: FAudioDevice initialized.
+[2023.02.20-13.57.03:554][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.20-13.57.03:572][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.20-13.57.03:581][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.20-13.57.03:581][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.20-13.57.03:583][  0]LogLiveCoding: Display: First instance in process group "UE_SpaceCapybara_0xd293e19d", spawning console
+[2023.02.20-13.57.03:587][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.20-13.57.04:118][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.20-13.57.04:151][  0]LogInit: Transaction tracking system initialized
+[2023.02.20-13.57.04:185][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Saved/SourceControl/UncontrolledChangelists.json
+[2023.02.20-13.57.04:185][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.02.20-13.57.04:191][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.005147 seconds (Found 115 uncontrolled assets)
+[2023.02.20-13.57.04:226][  0]BlueprintLog: New page: Editor Load
+[2023.02.20-13.57.04:395][  0]LocalizationService: Localization service is disabled
+[2023.02.20-13.57.04:478][  0]TimingProfiler: Initialize
+[2023.02.20-13.57.04:479][  0]TimingProfiler: OnSessionChanged
+[2023.02.20-13.57.04:479][  0]LoadingProfiler: Initialize
+[2023.02.20-13.57.04:479][  0]LoadingProfiler: OnSessionChanged
+[2023.02.20-13.57.04:479][  0]NetworkingProfiler: Initialize
+[2023.02.20-13.57.04:479][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.20-13.57.04:479][  0]MemoryProfiler: Initialize
+[2023.02.20-13.57.04:479][  0]MemoryProfiler: OnSessionChanged
+[2023.02.20-13.57.05:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/' took 0.00s
+[2023.02.20-13.57.05:099][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.02.20-13.57.05:142][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.20-13.57.05:349][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.20-13.57.05:352][  0]SourceControl: Source control is disabled
+[2023.02.20-13.57.05:539][  0]LogSlate: Took 0.001131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.20-13.57.09:763][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.02.20-13.57.11:676][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.02.20-13.57.11:683][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Game/Gm_ToyGameMod
+[2023.02.20-13.57.11:687][  0]LogUnrealEdMisc: Loading editor; pre map load, took 672.176
+[2023.02.20-13.57.11:688][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.20-13.57.11:689][  0]LightingResults: New page: Lighting Build
+[2023.02.20-13.57.11:701][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.57.11:702][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.57.11:703][  0]MapCheck: New page: Map Check
+[2023.02.20-13.57.11:703][  0]LightingResults: New page: Lighting Build
+[2023.02.20-13.57.11:726][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-13.57.11:739][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.20-13.57.11:759][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.02.20-13.57.11:760][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.57.11:760][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.02.20-13.57.11:763][  0]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.20-13.57.11:763][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.20-13.57.11:763][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.20-13.57.12:759][  0]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2023.02.20-13.57.12:759][  0]LogWorldPartition: Display: WorldPartition initialize took 997 ms
+[2023.02.20-13.57.13:192][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-13.57.13:457][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.20-13.57.13:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-13.57.13:488][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 30,274ms to complete.
+[2023.02.20-13.57.13:488][  0]LogFileHelpers: Loading map 'OpenWorld' took 1.800
+[2023.02.20-13.57.13:509][  0]LogUnrealEdMisc: Total Editor Startup Time, took 673.998
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Total job queries 6256, among them cache hits 0 (0.00%)
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Tracking 6256 distinct input hashes that result in 4500 distinct outputs (71.93%)
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: RAM used: 37.19 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.54%
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Shaders Compiled: 5901
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Jobs assigned 5901, completed 5901 (100.00%)
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Average time worker was idle: 0.01 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 309.62 s, longest 645.66 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Job execution time: average 5.46 s, max 72.28 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 315.09 s, max 646.30
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 650.19 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Jobs were issued in 601 batches (only local compilation was used), average 9.82 jobs/batch
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Average processing rate: 9.08 jobs/sec
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Total thread time: 3177.54 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Total thread preprocess time: 175.38 s
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Percentage time preprocessing: 5.52%
+[2023.02.20-13.57.13:509][  0]LogShaderCompilers: Display: Effective parallelization: 4.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 5
+[2023.02.20-13.57.13:510][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 28.85 sec, max 65.01 sec, min 4.08 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.19 sec, max 12.77 sec, min 4.31 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.24 sec, max 8.41 sec, min 2.15 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.98 sec, max 5.43 sec, min 1.57 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.12 sec, max 2.76 sec, min 1.59 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.00% of total time (compiled  150 times, average 2.12 sec, max 2.76 sec, min 1.59 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 5.45% of total time (compiled    6 times, average 28.85 sec, max 65.01 sec, min 4.08 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                                   FTonemapCS - 3.72% of total time (compiled  420 times, average 0.28 sec, max 0.48 sec, min 0.21 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.10% of total time (compiled   33 times, average 2.98 sec, max 5.43 sec, min 1.57 sec)
+[2023.02.20-13.57.13:511][  0]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.07% of total time (compiled  256 times, average 0.38 sec, max 1.09 sec, min 0.26 sec)
+[2023.02.20-13.57.13:512][  0]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.57.13:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.57.13:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.57.13:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.57.13:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.57.13:791][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:793][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:795][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:796][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:797][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:798][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:800][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:801][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:802][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.13:803][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.20-13.57.14:012][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.20-13.57.14:013][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-13.57.14:052][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2023.02.20-13.57.15:078][  0]LogStall: Startup...
+[2023.02.20-13.57.15:080][  0]LogStall: Startup complete.
+[2023.02.20-13.57.15:092][  0]LogLoad: (Engine Initialization) Total time: 675.58 seconds
+[2023.02.20-13.57.15:092][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.20-13.57.15:150][  0]LogAssetRegistry: Asset discovery search completed in 669.5433 seconds
+[2023.02.20-13.57.15:159][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2023.02.20-13.57.15:507][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.20-13.57.16:518][  8]LogSlate: Took 0.000718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.20-14.00.18:989][594]LogSlate: Took 0.006592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-14.01.10:156][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.20-14.01.10:239][ 66]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_BaseLevel.L_BaseLevel
+[2023.02.20-14.01.10:240][ 66]Cmd: MAP LOAD FILE="../../../../../../Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Levels/L_BaseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.20-14.01.10:240][ 66]LightingResults: New page: Lighting Build
+[2023.02.20-14.01.10:240][ 66]LoadErrors: New page: Loading map: L_BaseLevel.umap
+[2023.02.20-14.01.10:276][ 66]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-14.01.10:277][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.01.10:278][ 66]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.02.20-14.01.10:278][ 66]MapCheck: New page: Map Check
+[2023.02.20-14.01.10:278][ 66]LightingResults: New page: Lighting Build
+[2023.02.20-14.01.10:286][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-14.01.10:303][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.20-14.01.10:310][ 66]LogWorld: UWorld::CleanupWorld for L_BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-14.01.10:310][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.01.10:318][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.20-14.01.10:328][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.20-14.01.10:330][ 66]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_BaseLevel'.
+[2023.02.20-14.01.10:330][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-14.01.10:331][ 66]LogAIModule: Creating AISystem for world L_BaseLevel
+[2023.02.20-14.01.10:338][ 66]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-14.01.10:349][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.20-14.01.10:354][ 66]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-14.01.10:354][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,164ms to complete.
+[2023.02.20-14.01.10:354][ 66]LogFileHelpers: Loading map 'L_BaseLevel' took 0.114
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: ================================================
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Total job queries 6342, among them cache hits 9 (0.14%)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Tracking 6330 distinct input hashes that result in 4564 distinct outputs (72.10%)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: RAM used: 37.89 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.63%
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Shaders Compiled: 5975
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Jobs assigned 5978, completed 5975 (99.95%)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Average time worker was idle: 1.46 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Time job spent in pending queue: average 305.74 s, longest 645.66 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Job execution time: average 5.55 s, max 72.28 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Job life time (pending + execution): average 311.44 s, max 646.30
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 684.52 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Jobs were issued in 633 batches (only local compilation was used), average 9.44 jobs/batch
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Average processing rate: 8.73 jobs/sec
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Total thread time: 3323.64 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Total thread preprocess time: 180.92 s
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Percentage time preprocessing: 5.44%
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Effective parallelization: 4.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 28.85 sec, max 65.01 sec, min 4.08 sec)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.19 sec, max 12.77 sec, min 4.31 sec)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.24 sec, max 8.41 sec, min 2.15 sec)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2023.02.20-14.01.12:378][160]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 3.33 sec, max 3.33 sec, min 3.33 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.56% of total time (compiled  150 times, average 2.12 sec, max 2.76 sec, min 1.59 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 5.21% of total time (compiled    6 times, average 28.85 sec, max 65.01 sec, min 4.08 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display:                                                   FTonemapCS - 3.55% of total time (compiled  420 times, average 0.28 sec, max 0.48 sec, min 0.21 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 2.96% of total time (compiled   33 times, average 2.98 sec, max 5.43 sec, min 1.57 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.94% of total time (compiled  256 times, average 0.38 sec, max 1.09 sec, min 0.26 sec)
+[2023.02.20-14.01.12:379][160]LogShaderCompilers: Display: ================================================
+[2023.02.20-14.01.14:754][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-14.01.14:767][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-14.01.14:769][300]PIE: New page: PIE session: L_BaseLevel (20 févr. 2023 à 16:01:14)
+[2023.02.20-14.01.14:778][300]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.20-14.01.14:778][300]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.20-14.01.14:779][300]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_BaseLevel
+[2023.02.20-14.01.14:781][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001347s)
+[2023.02.20-14.01.14:781][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_BaseLevel.L_BaseLevel to /Game/Levels/UEDPIE_0_L_BaseLevel.L_BaseLevel (0.001667s)
+[2023.02.20-14.01.14:782][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-14.01.14:782][300]LogAIModule: Creating AISystem for world L_BaseLevel
+[2023.02.20-14.01.14:782][300]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2023.02.20-14.01.14:790][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-14.01.14:790][300]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-14.01.14:791][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.20-14.01.14:791][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-14.01.14:791][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-14.01.14:791][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-14.01.14:791][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-14.01.14:793][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-14.01.14:860][300]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.02.20-14.01.14:860][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-14.01.14:860][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-14.01.14:860][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-14.01.14:862][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.20-14.01.14:862][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.20-14.01.14:864][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.20-14.01.14:864][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.20-14.01.14:864][300]LogInit: FAudioDevice initialized.
+[2023.02.20-14.01.14:864][300]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_BaseLevel'.
+[2023.02.20-14.01.14:908][300]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.20-14.01.14:909][300]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_BaseLevel.L_BaseLevel up for play (max tick rate 0) at 2023.02.20-15.01.14
+[2023.02.20-14.01.14:910][300]LogWorld: Bringing up level for play took: 0.000999
+[2023.02.20-14.01.14:913][300]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.02.20-14.01.14:941][300]PIE: Server logged in
+[2023.02.20-14.01.14:942][300]PIE: Play in editor total start time 0,175 seconds.
+[2023.02.20-14.01.22:797][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-14.01.22:797][800]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_BaseLevel
+[2023.02.20-14.01.22:797][800]LogWorld: UWorld::CleanupWorld for L_BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-14.01.22:798][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.01.22:801][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-14.01.22:803][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.01.22:812][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-14.01.22:813][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-14.01.22:815][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.20-14.01.22:821][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.20-14.01.22:896][803]LogPlayLevel: Display: Destroying online subsystem :Context_1
