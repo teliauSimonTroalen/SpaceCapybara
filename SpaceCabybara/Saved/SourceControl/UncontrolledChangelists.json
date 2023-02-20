@@ -5,9 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Teliau/Documents/Unreal Projects/SpaceCabybara/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XF/RIONMS7MQDVY7S26FUSGYA.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FS/4MVWV400L9VTC2W4QHYDK2.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XO/0WRUCRGU65LX456VLI3K3I.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z7/ADQR31AN8MJ65A1BEJ507S.uasset",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/5R/MR1RYW4OKR1FMFS4LJ9I9Y.uasset",
-				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/51/IHOBUVX9EEZZ2GH5WK3WQE.uasset",
-				"C:/Users/Teliau/Documents/Unreal Projects/SpaceCabybara/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/51/IHOBUVX9EEZZ2GH5WK3WQE.uasset"
 			]
 		}
 	]
