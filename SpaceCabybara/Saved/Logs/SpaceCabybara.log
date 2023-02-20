@@ -1239,3 +1239,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.20-08.55.07:006][351]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.20-08.55.07:006][351]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546576801_1710627296
 [2023.02.20-08.55.07:006][351]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546556801_1371574943
+[2023.02.20-08.57.00:945][ 73]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:25.950 and deleted 0 files with total size 0 MiB. Scanned 144676 files in 2742 folders with total size 1260 MiB.
+[2023.02.20-08.57.42:232][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-08.57.42:271][858]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FS/4MVWV400L9VTC2W4QHYDK2
+[2023.02.20-08.57.42:272][858]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/4MVWV400L9VTC2W4QHYDK2D2D472004F4F0619199069A5E9E5E83C.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FS/4MVWV400L9VTC2W4QHYDK2.uasset'
+[2023.02.20-08.57.42:279][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 124 ms)
+[2023.02.20-08.57.42:281][858]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_D8BBC1143546576801_1710627296
+[2023.02.20-08.57.42:282][858]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546576801_1710627296
+[2023.02.20-09.20.36:039][507]Cmd: DELETE
+[2023.02.20-09.20.36:039][507]Cmd: ACTOR DELETE
+[2023.02.20-09.20.36:044][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-09.20.36:061][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.20-09.20.36:063][507]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.02.20-09.20.40:452][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.02.20-09.20.40:452][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.02.20-09.20.40:456][865]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546596801_1104671649
+[2023.02.20-09.20.40:457][865]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546596801_1104671649
+[2023.02.20-09.20.46:133][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-09.20.46:190][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.02.20-09.20.46:197][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.02.20-09.20.46:203][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.02.20-09.20.46:221][352]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XO/0WRUCRGU65LX456VLI3K3I
+[2023.02.20-09.20.46:221][352]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/0WRUCRGU65LX456VLI3K3IE7274F2E49CA2697564BFBB9C53A48DF.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XO/0WRUCRGU65LX456VLI3K3I.uasset'
+[2023.02.20-09.20.46:230][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 221 ms)
+[2023.02.20-09.20.46:233][352]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_D8BBC1143546596801_1104671649
+[2023.02.20-09.20.46:233][352]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1143546596801_1104671649
