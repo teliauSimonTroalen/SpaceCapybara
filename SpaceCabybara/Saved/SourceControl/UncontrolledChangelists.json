@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_floatingenemyAI.uasset",
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap",
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_groundEnemyAI.uasset",
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/BT_patrol.uasset",
 				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_enemy.uasset",
 				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_enemyAI.uasset",
 				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap",
