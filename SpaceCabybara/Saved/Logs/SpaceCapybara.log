@@ -1,4 +1,4 @@
-﻿Log file open, 02/24/23 11:05:05
+Log file open, 02/24/23 11:05:05
 LogConfig: Display: Loading Mac ini files took 0.04 seconds
 LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
 LogConfig: Display: Loading Android ini files took 0.05 seconds
@@ -36,13 +36,14 @@ LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin ChaosCaching
 LogPluginManager: Mounting Engine plugin ChaosClothEditor
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
 LogPluginManager: Mounting Engine plugin ChaosNiagara
 LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
-LogPluginManager: Mounting Engine plugin ChaosUserDataPT
 LogPluginManager: Mounting Engine plugin CharacterAI
 LogPluginManager: Mounting Engine plugin PluginUtils
 LogPluginManager: Mounting Engine plugin Dataflow
@@ -61,9 +62,8 @@ LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
-LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
 LogPluginManager: Mounting Engine plugin AppleImageUtils
@@ -208,7 +208,6 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 SourceControl: Source control is disabled
 SourceControl: Source control is disabled
-PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogInit: Using libcurl 7.83.1
 LogInit:  - built for Windows
 LogInit:  - supports SSL with OpenSSL/1.1.1n
@@ -229,16 +228,17 @@ LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-LogInit: Build: ++UE5+Release-5.1-CL-23058290
-LogInit: Engine Version: 5.1.0-23058290+++UE5+Release-5.1
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.1-CL-23901901
+LogInit: Engine Version: 5.1.1-23901901+++UE5+Release-5.1
 LogInit: Compatible Engine Version: 5.1.0-23058290+++UE5+Release-5.1
 LogInit: Net CL: 23058290
-LogInit: OS: Windows 10 (21H2) [10.0.19044.2604] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
-LogInit: Compiled (64-bit): Nov  9 2022 18:31:23
-LogInit: Compiled with Visual C++: 19.29.30146.00
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1265] (), CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jan 30 2023 05:19:00
+LogInit: Compiled with Visual C++: 19.29.30147.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.1
-LogInit: Command Line:  -EpicPortal -epicusername=Natasel -epicuserid=ef011f99178e4e12bf75fe35e68f9024 -epiclocale=fr -epicsandboxid=ue
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.1/Engine/Binaries/Win64/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
@@ -587,9 +587,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.24-10.05.07:615][  0]Message dialog closed, result: No, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
 Please install either the latest or the recommended driver version or switch to a different rendering API.
 
-Would you like to visit the following URL to download the driver?
+[2023.02.24-12.02.57:641][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/NePasToucher/Game/PC_ToyController.PC_ToyController_C:ExecuteUbergraph_PC_ToyController'!
+[2023.02.24-12.02.57:641][989]LogScript: Warning: Last function called:
+	/Game/NePasToucher/Game/PC_ToyController.PC_ToyController_C.ExecuteUbergraph_PC_ToyController
 
-https://www.nvidia.com/en-us/geforce/drivers/
+[2023.02.24-12.03.00:258][146]LogBlueprintUserMessages: [Map_Teliau_C_8] CheckPointPassed
+[2023.02.24-12.03.02:840][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/NePasToucher/Game/PC_ToyController.PC_ToyController_C:ExecuteUbergraph_PC_ToyController'!
+[2023.02.24-12.03.02:840][301]LogScript: Warning: Last function called:
+	/Game/NePasToucher/Game/PC_ToyController.PC_ToyController_C.ExecuteUbergraph_PC_ToyController
 
 NVIDIA GeForce GTX 1660 Ti
 Installed: 512.72
