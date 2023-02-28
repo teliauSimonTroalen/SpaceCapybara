@@ -2899,3 +2899,1324 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.28-16.12.17:544][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 6.49 sec)
 [2023.02.28-16.12.17:550][981]AssetCheck: New page: Asset Save: BP_Bumper
 [2023.02.28-16.12.17:550][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-16.12.43:078][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.28-16.12.43:266][168]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto5
+[2023.02.28-16.12.43:266][168]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau_Auto5CA926AD6437FDC540A71E2B7449A209F.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto5.umap'
+[2023.02.28-16.12.43:275][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.246
+[2023.02.28-16.12.43:275][168]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.246
+[2023.02.28-16.37.34:493][642]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.999 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-17.37.33:517][437]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.023 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-18.37.33:526][232]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.031 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-19.37.33:537][ 30]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.042 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-20.37.33:525][826]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.028 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-21.37.33:523][770]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.026 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-21.41.10:002][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.28-21.41.10:003][308]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.056
+[2023.02.28-21.41.10:004][308]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Teliau/Blueprint/BP_Bumper] ([2] browsable assets)...
+[2023.02.28-21.41.10:063][308]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper]
+[2023.02.28-21.41.10:063][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teliau/Blueprint/BP_Bumper]
+[2023.02.28-21.41.10:132][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto6
+[2023.02.28-21.41.10:132][308]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper_Auto641F84E13440F5476E78D39804F976368.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto6.uasset'
+[2023.02.28-21.41.10:133][308]LogFileHelpers: Auto-saving content packages took 0.129
+[2023.02.28-21.50.26:235][500]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-21.50.26:235][500]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-21.50.26:237][500]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_4
+[2023.02.28-21.50.26:239][500]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_4
+[2023.02.28-21.50.26:919][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-21.50.26:919][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-21.50.26:924][561]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_5
+[2023.02.28-21.50.26:925][561]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_5
+[2023.02.28-21.51.10:528][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.28-21.51.10:710][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto7
+[2023.02.28-21.51.10:710][485]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau_Auto7F05F5DAE4631DF30ED97A6B635BA5305.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto7.umap'
+[2023.02.28-21.51.10:719][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.247
+[2023.02.28-21.51.10:719][485]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.247
+[2023.02.28-21.54.12:416][863]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.54.12:507][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.28-21.54.12:547][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.54.12:600][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.54.12:851][863]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.54.12:851][863]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_BumperAE2CDF4F410D0735AD5F1D85B3EBAA6E.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.54.12:858][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 310 ms (total: 6.80 sec)
+[2023.02.28-21.54.12:865][863]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.54.12:865][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.54.15:515][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.54.15:528][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.54.15:528][113]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:54:15)
+[2023.02.28-21.54.15:528][113]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.54.15:581][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052877s)
+[2023.02.28-21.54.15:581][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.052911s)
+[2023.02.28-21.54.15:581][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.54.15:582][113]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.54.15:582][113]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2023.02.28-21.54.15:636][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.28-21.54.15:638][113]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.54.15:638][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.54.15:638][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.54.15:639][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.54.15:639][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.54.15:639][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.54.15:641][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.54.15:655][113]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.54.15:655][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.54.15:655][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.54.15:655][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.54.15:656][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.02.28-21.54.15:656][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.02.28-21.54.15:657][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.02.28-21.54.15:657][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.02.28-21.54.15:657][113]LogInit: FAudioDevice initialized.
+[2023.02.28-21.54.15:657][113]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_Teliau'.
+[2023.02.28-21.54.15:659][113]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.54.15:686][113]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.54.15
+[2023.02.28-21.54.15:686][113]LogWorld: Bringing up level for play took: 0.026546
+[2023.02.28-21.54.15:688][113]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.02.28-21.54.15:690][113]PIE: Server logged in
+[2023.02.28-21.54.15:691][113]PIE: Play in editor total start time 0,163 seconds.
+[2023.02.28-21.54.16:599][209]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.54.18:408][426]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.18:866][481]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.19:325][536]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.19:792][592]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.21:467][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.54.21:467][789]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.54.21:467][789]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.54.21:471][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.54.21:490][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.54.21:497][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.54.21:546][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.54.21:546][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.28-21.54.21:548][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.28-21.54.21:550][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.54.21:561][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.28-21.54.21:606][790]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.02.28-21.54.33:934][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.54.33:942][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.54.33:942][ 76]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:54:33)
+[2023.02.28-21.54.33:966][ 76]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.54.34:020][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053604s)
+[2023.02.28-21.54.34:020][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.053632s)
+[2023.02.28-21.54.34:020][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.54.34:020][ 76]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.54.34:021][ 76]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.02.28-21.54.34:073][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.28-21.54.34:075][ 76]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.54.34:075][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.54.34:075][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.54.34:076][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.54.34:076][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.54.34:076][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.54.34:077][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.02.28-21.54.34:091][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.02.28-21.54.34:092][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.02.28-21.54.34:092][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.02.28-21.54.34:092][ 76]LogInit: FAudioDevice initialized.
+[2023.02.28-21.54.34:092][ 76]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_Teliau'.
+[2023.02.28-21.54.34:095][ 76]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.54.34:121][ 76]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.54.34
+[2023.02.28-21.54.34:122][ 76]LogWorld: Bringing up level for play took: 0.026523
+[2023.02.28-21.54.34:123][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.02.28-21.54.34:126][ 76]PIE: Server logged in
+[2023.02.28-21.54.34:126][ 76]PIE: Play in editor total start time 0,184 seconds.
+[2023.02.28-21.54.35:456][220]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.54.36:423][336]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.36:915][395]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.37:406][454]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.37:898][513]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.38:390][572]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.39:098][657]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.54.40:940][878]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.41:431][937]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.43:686][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.54.43:687][205]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.54.43:687][205]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.54.43:690][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.54.43:694][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.54.43:701][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.54.43:753][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.54.43:753][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.28-21.54.43:754][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.28-21.54.43:757][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.54.43:765][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.28-21.54.43:836][206]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.02.28-21.54.55:217][288]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.54.55:304][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.28-21.54.55:347][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.54.55:399][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.54.55:415][288]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.54.55:459][288]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper8B4D752F4E4D49E23B52B19E39023C84.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.54.55:477][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 6.93 sec)
+[2023.02.28-21.54.55:483][288]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.54.55:483][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.54.56:970][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.54.56:978][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.54.56:978][419]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:54:56)
+[2023.02.28-21.54.57:007][419]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.54.57:063][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056249s)
+[2023.02.28-21.54.57:063][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.056294s)
+[2023.02.28-21.54.57:063][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.54.57:063][419]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.54.57:063][419]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2023.02.28-21.54.57:115][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.28-21.54.57:117][419]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.54.57:117][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.54.57:117][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.54.57:118][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.54.57:118][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.54.57:118][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.54.57:119][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.54.57:133][419]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.54.57:133][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.54.57:133][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.54.57:133][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.54.57:134][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.02.28-21.54.57:134][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.02.28-21.54.57:135][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.02.28-21.54.57:135][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.02.28-21.54.57:135][419]LogInit: FAudioDevice initialized.
+[2023.02.28-21.54.57:135][419]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_Teliau'.
+[2023.02.28-21.54.57:137][419]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.54.57:164][419]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.54.57
+[2023.02.28-21.54.57:164][419]LogWorld: Bringing up level for play took: 0.026651
+[2023.02.28-21.54.57:166][419]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.02.28-21.54.57:168][419]PIE: Server logged in
+[2023.02.28-21.54.57:169][419]PIE: Play in editor total start time 0,191 seconds.
+[2023.02.28-21.54.58:453][562]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.54.59:419][678]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.54.59:912][737]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.00:403][796]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.00:894][855]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.01:386][914]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.04:616][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.04:616][298]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.55.04:617][298]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.55.04:620][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.04:639][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.55.04:645][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.04:696][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.04:696][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.28-21.55.04:697][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.28-21.55.04:712][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.28-21.55.04:755][299]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.02.28-21.55.14:139][273]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.55.14:227][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.28-21.55.14:272][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.55.14:338][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.55.14:356][273]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.55.14:384][273]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_BumperB6C3C1D145B41E680A3B61A98458DCDB.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.55.14:391][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 7.05 sec)
+[2023.02.28-21.55.14:397][273]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.55.14:397][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.55.15:718][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.55.15:726][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.55.15:726][406]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:55:15)
+[2023.02.28-21.55.15:756][406]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.55.15:811][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054145s)
+[2023.02.28-21.55.15:811][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.054174s)
+[2023.02.28-21.55.15:811][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.55.15:811][406]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.55.15:812][406]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2023.02.28-21.55.15:862][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.28-21.55.15:864][406]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.55.15:864][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.55.15:864][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.55.15:865][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.55.15:865][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.55.15:865][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.55.15:866][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.55.15:879][406]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.55.15:879][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.55.15:879][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.55.15:879][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.55.15:880][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.02.28-21.55.15:880][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.02.28-21.55.15:881][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.02.28-21.55.15:881][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.02.28-21.55.15:881][406]LogInit: FAudioDevice initialized.
+[2023.02.28-21.55.15:881][406]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_Teliau'.
+[2023.02.28-21.55.15:884][406]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.55.15:909][406]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.55.15
+[2023.02.28-21.55.15:910][406]LogWorld: Bringing up level for play took: 0.026825
+[2023.02.28-21.55.15:911][406]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.02.28-21.55.15:914][406]PIE: Server logged in
+[2023.02.28-21.55.15:915][406]PIE: Play in editor total start time 0,189 seconds.
+[2023.02.28-21.55.17:253][554]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.55.18:252][674]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.23:926][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.23:927][349]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.55.23:927][349]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.55.23:930][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.23:949][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.55.23:955][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.24:007][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.55.24:008][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.28-21.55.24:009][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.28-21.55.24:012][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.24:021][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.28-21.55.24:131][350]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.02.28-21.55.39:383][ 99]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.55.39:468][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.28-21.55.39:513][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.55.39:567][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.55.39:584][ 99]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.55.39:585][ 99]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper88909DB14214799CC1935E9C35B43035.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.55.39:591][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.13 sec)
+[2023.02.28-21.55.39:597][ 99]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.55.39:597][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.55.42:532][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.55.42:540][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.55.42:540][404]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:55:42)
+[2023.02.28-21.55.42:540][404]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.55.42:594][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055292s)
+[2023.02.28-21.55.42:594][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.055315s)
+[2023.02.28-21.55.42:594][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.55.42:595][404]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.55.42:595][404]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2023.02.28-21.55.42:649][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.28-21.55.42:651][404]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.55.42:651][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.55.42:651][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.55.42:651][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.55.42:651][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.55.42:651][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.55.42:653][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.55.42:666][404]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.55.42:666][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.55.42:666][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.55.42:666][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.55.42:667][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.02.28-21.55.42:667][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.02.28-21.55.42:668][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.02.28-21.55.42:668][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.02.28-21.55.42:668][404]LogInit: FAudioDevice initialized.
+[2023.02.28-21.55.42:668][404]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_Teliau'.
+[2023.02.28-21.55.42:670][404]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.55.42:697][404]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.55.42
+[2023.02.28-21.55.42:698][404]LogWorld: Bringing up level for play took: 0.027382
+[2023.02.28-21.55.42:699][404]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.02.28-21.55.42:702][404]PIE: Server logged in
+[2023.02.28-21.55.42:702][404]PIE: Play in editor total start time 0,164 seconds.
+[2023.02.28-21.55.43:915][535]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.55.44:864][649]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.48:130][ 41]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.48:139][ 42]LogBlueprintUserMessages: [BP_Bumper_C_5] Hello
+[2023.02.28-21.55.49:587][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.49:587][212]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.55.49:587][212]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.55.49:590][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.49:609][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.55.49:615][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.55.49:667][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.55.49:667][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.02.28-21.55.49:668][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.02.28-21.55.49:671][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.55.49:680][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.28-21.55.49:752][213]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.02.28-21.57.13:718][971]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-21.57.16:296][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-21.57.17:163][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.28-21.57.22:082][847]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-21.57.23:930][ 65]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-21.57.25:336][230]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-21.57.26:627][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.57.26:635][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.57.26:636][372]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:57:26)
+[2023.02.28-21.57.26:657][372]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.57.26:711][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054336s)
+[2023.02.28-21.57.26:711][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.054392s)
+[2023.02.28-21.57.26:711][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.57.26:712][372]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.57.26:712][372]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2023.02.28-21.57.26:763][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.28-21.57.26:764][372]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.57.26:764][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.57.26:764][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.57.26:765][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.57.26:765][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.57.26:765][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.57.26:767][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.57.26:780][372]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.57.26:780][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.57.26:780][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.57.26:780][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.57.26:780][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.02.28-21.57.26:781][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.02.28-21.57.26:782][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.02.28-21.57.26:782][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.02.28-21.57.26:782][372]LogInit: FAudioDevice initialized.
+[2023.02.28-21.57.26:782][372]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map_Teliau'.
+[2023.02.28-21.57.26:785][372]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.57.26:812][372]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.57.26
+[2023.02.28-21.57.26:813][372]LogWorld: Bringing up level for play took: 0.027863
+[2023.02.28-21.57.26:814][372]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.02.28-21.57.26:817][372]PIE: Server logged in
+[2023.02.28-21.57.26:818][372]PIE: Play in editor total start time 0,182 seconds.
+[2023.02.28-21.57.29:032][625]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.31:647][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.57.31:647][936]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.57.31:648][936]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.57.31:651][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.57.31:669][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.57.31:675][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.57.31:723][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.57.31:726][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.28-21.57.31:727][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.28-21.57.31:738][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.28-21.57.31:786][937]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.02.28-21.57.46:261][502]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.57.46:349][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.28-21.57.46:393][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.57.46:446][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.57.46:462][502]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.57.46:463][502]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_BumperEE1E4FD24FFAE2E8DE801A9F027B0FF6.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.57.46:470][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.21 sec)
+[2023.02.28-21.57.46:477][502]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.57.46:477][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.57.47:766][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.57.47:774][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.57.47:774][629]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:57:47)
+[2023.02.28-21.57.47:807][629]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.57.47:859][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053123s)
+[2023.02.28-21.57.47:859][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.053150s)
+[2023.02.28-21.57.47:859][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.57.47:860][629]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.57.47:860][629]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2023.02.28-21.57.47:912][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.02.28-21.57.47:915][629]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.57.47:915][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.57.47:915][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.57.47:915][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.57.47:915][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.57.47:915][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.57.47:917][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.57.47:931][629]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.57.47:931][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.57.47:931][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.57.47:931][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.57.47:931][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.02.28-21.57.47:931][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.02.28-21.57.47:933][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.02.28-21.57.47:933][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.02.28-21.57.47:933][629]LogInit: FAudioDevice initialized.
+[2023.02.28-21.57.47:933][629]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_Teliau'.
+[2023.02.28-21.57.47:936][629]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.57.47:961][629]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.57.47
+[2023.02.28-21.57.47:962][629]LogWorld: Bringing up level for play took: 0.026000
+[2023.02.28-21.57.47:963][629]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.02.28-21.57.47:966][629]PIE: Server logged in
+[2023.02.28-21.57.47:966][629]PIE: Play in editor total start time 0,193 seconds.
+[2023.02.28-21.57.49:337][777]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.50:837][957]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.50:846][958]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.50:854][959]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.50:863][960]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.52:613][170]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.54:020][339]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.57.54:717][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.57.54:717][418]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.57.54:718][418]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.57.54:721][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.57.54:740][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.57.54:746][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.57.54:798][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.57.54:798][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.02.28-21.57.54:799][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.02.28-21.57.54:802][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.57.54:810][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.28-21.57.54:861][419]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.02.28-21.58.03:387][343]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.58.03:471][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.28-21.58.03:515][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.58.03:560][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.58.03:576][343]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.58.03:577][343]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper169A69DC480C8B169B5C90AD4862892F.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.58.03:583][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.27 sec)
+[2023.02.28-21.58.03:589][343]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.58.03:589][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.58.05:278][503]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.58.05:286][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.58.05:286][503]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:58:05)
+[2023.02.28-21.58.05:317][503]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.58.05:370][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053815s)
+[2023.02.28-21.58.05:371][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.053845s)
+[2023.02.28-21.58.05:371][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.58.05:371][503]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.58.05:371][503]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2023.02.28-21.58.05:423][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.28-21.58.05:426][503]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.58.05:426][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.58.05:426][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.58.05:426][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.58.05:426][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.58.05:427][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.58.05:428][503]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.58.05:442][503]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.58.05:442][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.58.05:442][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.58.05:442][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.58.05:443][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.02.28-21.58.05:443][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.02.28-21.58.05:444][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.02.28-21.58.05:444][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.02.28-21.58.05:444][503]LogInit: FAudioDevice initialized.
+[2023.02.28-21.58.05:444][503]LogAudio: Display: Audio Device (ID: 28) registered with world 'Map_Teliau'.
+[2023.02.28-21.58.05:447][503]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.58.05:473][503]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.58.05
+[2023.02.28-21.58.05:474][503]LogWorld: Bringing up level for play took: 0.026720
+[2023.02.28-21.58.05:475][503]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.02.28-21.58.05:478][503]PIE: Server logged in
+[2023.02.28-21.58.05:478][503]PIE: Play in editor total start time 0,192 seconds.
+[2023.02.28-21.58.06:885][653]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.08:560][854]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.11:677][228]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.11:684][229]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.13:297][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.58.13:297][418]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.58.13:298][418]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.58.13:301][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.58.13:319][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.58.13:326][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.58.13:374][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.58.13:377][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.02.28-21.58.13:379][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.02.28-21.58.13:390][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.28-21.58.13:516][419]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.02.28-21.58.22:165][383]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-21.58.22:250][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.28-21.58.22:294][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.58.22:348][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-21.58.22:426][383]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-21.58.22:427][383]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper533B714E49D8C3741BDD54A905DF8600.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-21.58.22:432][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 7.41 sec)
+[2023.02.28-21.58.22:438][383]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-21.58.22:438][383]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-21.58.24:119][541]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.58.24:127][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.58.24:127][541]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:58:24)
+[2023.02.28-21.58.24:157][541]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.58.24:209][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052539s)
+[2023.02.28-21.58.24:209][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.052567s)
+[2023.02.28-21.58.24:209][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.58.24:209][541]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.58.24:209][541]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.02.28-21.58.24:261][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.28-21.58.24:263][541]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.02.28-21.58.24:263][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.58.24:264][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.58.24:264][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.58.24:264][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.58.24:264][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.58.24:264][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.58.24:266][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.58.24:279][541]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.58.24:279][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.58.24:279][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.58.24:279][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.58.24:279][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.02.28-21.58.24:279][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.02.28-21.58.24:280][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.02.28-21.58.24:280][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.02.28-21.58.24:280][541]LogInit: FAudioDevice initialized.
+[2023.02.28-21.58.24:281][541]LogAudio: Display: Audio Device (ID: 29) registered with world 'Map_Teliau'.
+[2023.02.28-21.58.24:283][541]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.58.24:311][541]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.58.24
+[2023.02.28-21.58.24:311][541]LogWorld: Bringing up level for play took: 0.027760
+[2023.02.28-21.58.24:313][541]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.02.28-21.58.24:315][541]PIE: Server logged in
+[2023.02.28-21.58.24:316][541]PIE: Play in editor total start time 0,19 seconds.
+[2023.02.28-21.58.25:650][688]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.25:659][689]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.26:553][796]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.27:453][903]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.58.29:657][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.58.29:657][164]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.58.29:658][164]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.58.29:661][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.58.29:679][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.58.29:686][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.58.29:738][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.58.29:739][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.02.28-21.58.29:740][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.02.28-21.58.29:742][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.58.29:751][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.28-21.58.29:828][165]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.02.28-21.58.46:183][ 76]Cmd: TRANSACTION UNDO
+[2023.02.28-21.58.46:183][ 76]LogEditorTransaction: Undo Rotate Elements
+[2023.02.28-21.59.05:808][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.59.05:833][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-21.59.05:887][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.28-21.59.06:069][169]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-21.59.06:070][169]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauACFD262E406CC75FE3AA3BA11B76C5AE.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-21.59.06:085][169]LogFileHelpers: Saving map 'Map_Teliau' took 0.252
+[2023.02.28-21.59.06:090][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 7.69 sec)
+[2023.02.28-21.59.06:096][169]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-21.59.06:096][169]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-21.59.06:956][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-21.59.06:963][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-21.59.06:963][258]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 23:59:06)
+[2023.02.28-21.59.06:997][258]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.59.07:049][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052719s)
+[2023.02.28-21.59.07:049][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.052748s)
+[2023.02.28-21.59.07:049][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-21.59.07:050][258]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-21.59.07:050][258]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2023.02.28-21.59.07:101][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.28-21.59.07:102][258]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-21.59.07:102][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-21.59.07:102][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-21.59.07:103][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-21.59.07:103][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-21.59.07:103][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-21.59.07:104][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-21.59.07:117][258]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-21.59.07:117][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-21.59.07:117][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-21.59.07:117][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-21.59.07:118][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.02.28-21.59.07:118][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.02.28-21.59.07:119][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.02.28-21.59.07:119][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.02.28-21.59.07:119][258]LogInit: FAudioDevice initialized.
+[2023.02.28-21.59.07:119][258]LogAudio: Display: Audio Device (ID: 30) registered with world 'Map_Teliau'.
+[2023.02.28-21.59.07:122][258]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-21.59.07:148][258]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-22.59.07
+[2023.02.28-21.59.07:148][258]LogWorld: Bringing up level for play took: 0.026429
+[2023.02.28-21.59.07:150][258]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.02.28-21.59.07:153][258]PIE: Server logged in
+[2023.02.28-21.59.07:153][258]PIE: Play in editor total start time 0,19 seconds.
+[2023.02.28-21.59.08:855][448]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.59.09:488][524]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.59.11:272][738]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-21.59.11:289][740]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.59.11:922][816]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.59.13:806][ 42]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.59.14:424][116]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.59.16:174][326]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-21.59.16:791][400]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-21.59.19:566][733]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-21.59.20:817][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.59.20:817][880]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-21.59.20:817][880]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-21.59.20:820][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.59.20:825][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-21.59.20:831][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-21.59.20:880][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-21.59.20:881][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.02.28-21.59.20:882][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.02.28-21.59.20:885][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-21.59.20:896][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.02.28-21.59.21:038][881]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.02.28-21.59.37:169][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.59.37:202][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-21.59.37:254][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.02.28-21.59.37:433][785]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-21.59.37:437][785]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauE6F7D14C43060A471257F39B6F87EFED.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-21.59.37:453][785]LogFileHelpers: Saving map 'Map_Teliau' took 0.251
+[2023.02.28-21.59.37:459][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 7.98 sec)
+[2023.02.28-21.59.37:465][785]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-21.59.37:465][785]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-22.09.36:342][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.28-22.09.36:344][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.055
+[2023.02.28-22.18.22:528][321]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-22.18.22:987][322]LogEditorTransaction: Undo Move Node
+[2023.02.28-22.18.23:698][393]LogEditorTransaction: Undo Move Node
+[2023.02.28-22.18.24:131][436]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-22.18.24:590][482]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-22.18.24:975][519]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-22.18.25:336][552]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-22.18.25:690][585]LogEditorTransaction: Undo Move Nodes
+[2023.02.28-22.18.25:986][611]LogEditorTransaction: Undo Paste clipboard contents
+[2023.02.28-22.18.26:296][638]LogEditorTransaction: Undo Move Nodes
+[2023.02.28-22.18.26:671][672]LogEditorTransaction: Undo Move Node
+[2023.02.28-22.18.27:140][687]LogEditorTransaction: Undo Move Nodes
+[2023.02.28-22.18.49:674][257]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-22.18.49:776][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.28-22.18.49:820][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-22.18.49:874][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-22.18.50:151][257]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-22.18.50:151][257]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper2E54A36E40726294AAAF94951AF16FE1.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-22.18.50:158][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 8.32 sec)
+[2023.02.28-22.18.50:167][257]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-22.18.50:167][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-22.18.52:035][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-22.18.52:064][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-22.18.52:116][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.28-22.18.52:293][440]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-22.18.52:348][440]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau11A6B3084C3619124E4DE78D010C4AFE.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-22.18.52:364][440]LogFileHelpers: Saving map 'Map_Teliau' took 0.301
+[2023.02.28-22.18.52:369][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 8.66 sec)
+[2023.02.28-22.18.52:375][440]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-22.18.52:375][440]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-22.28.36:105][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-22.28.36:137][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-22.28.36:196][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.28-22.28.36:903][402]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-22.28.36:903][402]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauB0FD629F433DD039655A258925806A6B.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-22.28.36:922][402]LogFileHelpers: Saving map 'Map_Teliau' took 0.787
+[2023.02.28-22.28.36:927][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 822 ms (total: 9.48 sec)
+[2023.02.28-22.28.36:937][402]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-22.28.36:937][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-22.28.41:396][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.28-22.28.44:605][516]LogSlate: Window 'Save Content' being destroyed
+[2023.02.28-22.28.44:613][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-22.28.46:595][516]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.28-22.28.46:750][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.28-22.28.46:881][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-22.28.46:915][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Untitled" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-22.28.46:973][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.28-22.28.47:119][516]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Untitled
+[2023.02.28-22.28.47:120][516]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Untitled40616C77430038CE2735ADA6AEEF7FE2.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Untitled.umap'
+[2023.02.28-22.28.47:151][516]LogFileHelpers: Saving map 'Untitled' took 0.545
+[2023.02.28-22.28.47:156][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.54 sec (total: 12.0 sec)
+[2023.02.28-22.28.47:156][516]LogStall: Shutdown...
+[2023.02.28-22.28.47:159][516]LogStall: Shutdown complete.
+[2023.02.28-22.28.47:238][516]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.47:238][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.47:255][516]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.47:255][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.47:407][516]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.47:407][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.47:554][516]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.28-22.28.47:555][516]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.47:555][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.47:649][516]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.28-22.28.47:649][516]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.47:649][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.47:715][516]LogSlate: Window 'SpaceCapybara - Unreal Editor' being destroyed
+[2023.02.28-22.28.47:787][516]AssetCheck: New page: Asset Save: Untitled
+[2023.02.28-22.28.47:787][516]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Untitled.Untitled
+[2023.02.28-22.28.48:062][517]Cmd: QUIT_EDITOR
+[2023.02.28-22.28.48:063][517]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.28-22.28.48:072][517]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.28-22.28.48:072][517]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.28-22.28.48:072][517]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.28-22.28.48:080][517]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.48:080][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.48:082][517]LogWorld: UWorld::CleanupWorld for Map_Teliau_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.48:082][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.48:083][517]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.48:083][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-22.28.48:084][517]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.28-22.28.48:085][517]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.28-22.28.48:334][517]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.28-22.28.48:334][517]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.28-22.28.48:334][517]LogAudio: Display: Audio Device unregistered from world 'Map_Teliau'.
+[2023.02.28-22.28.48:334][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.28-22.28.48:335][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.28-22.28.48:343][517]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.28-22.28.48:346][517]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.28-22.28.48:347][517]LogExit: Preparing to exit.
+[2023.02.28-22.28.48:472][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.02.28-22.28.48:478][517]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:478][517]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:480][517]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.48:481][517]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.28-22.28.49:214][517]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:218][517]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:221][517]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:224][517]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:228][517]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:231][517]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:234][517]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:237][517]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:241][517]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:244][517]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-22.28.49:320][517]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.02.28-22.28.49:372][517]LogExit: Editor shut down
+[2023.02.28-22.28.49:375][517]LogExit: Transaction tracking system shut down
+[2023.02.28-22.28.49:539][517]LogExit: Object subsystem successfully closed.
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: ================================================
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: Total job queries 145, among them cache hits 16 (11.03%)
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: Tracking 129 distinct input hashes that result in 100 distinct outputs (77.52%)
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: RAM used: 1.02 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.28-22.28.49:543][517]LogShaderCompilers: Display: ================================================
+[2023.02.28-22.28.49:558][517]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.28-22.28.49:570][517]LogVirtualization: UE::Virtualization was shutdown
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (997)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (995)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module Voice (993)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module SequencerWidgets (991)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module BlueprintGraph (989)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.02.28-22.28.49:607][517]LogModuleManager: Shutting down and abandoning module AddContentDialog (979)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module WidgetCarousel (978)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.02.28-22.28.49:608][517]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (965)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module SmartSnapping (963)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (961)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (959)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module TextureAlignMode (957)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module BspMode (955)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module GeometryMode (953)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (951)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (949)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (947)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (945)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WebMMedia (943)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (941)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (939)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (937)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (935)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (933)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (931)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (929)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (927)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (925)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module WaveTableEditor (923)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (921)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module GooglePADEditor (919)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (917)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (915)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module SequenceRecorder (914)
+[2023.02.28-22.28.49:609][517]LogModuleManager: Shutting down and abandoning module PlanarCut (911)
+[2023.02.28-22.28.49:610][517]LogModuleManager: Shutting down and abandoning module CharacterAI (909)
+[2023.02.28-22.28.49:610][517]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (907)
+[2023.02.28-22.28.49:610][517]LogModuleManager: Shutting down and abandoning module IKRigEditor (905)
+[2023.02.28-22.28.49:611][517]LogModuleManager: Shutting down and abandoning module ControlRigEditor (903)
+[2023.02.28-22.28.49:611][517]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.02.28-22.28.49:611][517]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.02.28-22.28.49:612][517]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.02.28-22.28.49:613][517]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.02.28-22.28.49:613][517]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.02.28-22.28.49:613][517]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.02.28-22.28.49:613][517]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.02.28-22.28.50:611][517]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.02.28-22.28.50:612][517]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.02.28-22.28.50:615][517]MemoryProfiler: Shutdown
+[2023.02.28-22.28.50:615][517]NetworkingProfiler: Shutdown
+[2023.02.28-22.28.50:615][517]LoadingProfiler: Shutdown
+[2023.02.28-22.28.50:616][517]TimingProfiler: Shutdown
+[2023.02.28-22.28.50:617][517]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.02.28-22.28.50:618][517]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.02.28-22.28.50:619][517]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.02.28-22.28.50:620][517]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.02.28-22.28.50:621][517]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.02.28-22.28.50:621][517]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.02.28-22.28.50:621][517]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.02.28-22.28.50:621][517]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.02.28-22.28.50:622][517]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.02.28-22.28.50:622][517]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.02.28-22.28.50:622][517]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.02.28-22.28.50:622][517]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.02.28-22.28.50:630][517]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.02.28-22.28.50:630][517]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.02.28-22.28.50:630][517]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.02.28-22.28.50:630][517]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.02.28-22.28.50:632][517]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.02.28-22.28.50:632][517]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.02.28-22.28.50:632][517]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.02.28-22.28.50:632][517]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.02.28-22.28.50:633][517]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.02.28-22.28.50:633][517]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.02.28-22.28.50:633][517]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.02.28-22.28.50:646][517]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (701)
+[2023.02.28-22.28.50:816][517]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (693)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module LightMixer (687)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (685)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module TemplateSequence (681)
+[2023.02.28-22.28.50:817][517]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (679)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (677)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (675)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangePipelines (673)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeExport (671)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeMessages (669)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeImport (667)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (665)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeNodes (663)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (661)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (659)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (657)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module InterchangeEditor (655)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (653)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module SequencerScripting (651)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module UObjectPlugin (649)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (647)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (645)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module Paper2DEditor (643)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (641)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module PluginUtils (639)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (637)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (635)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module GitSourceControl (633)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module DumpGPUServices (631)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (629)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (627)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (625)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (623)
+[2023.02.28-22.28.50:818][517]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (621)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module StylusInput (619)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (617)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module EditorDebugTools (615)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (613)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (611)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (609)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module PluginBrowser (607)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (605)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (603)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (601)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module GLTFImporter (599)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module GLTFCore (597)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (595)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module CryptoKeys (593)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module CurveEditorTools (591)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (589)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module MediaPlate (587)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module MediaCompositing (585)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module ImgMedia (583)
+[2023.02.28-22.28.50:819][517]LogModuleManager: Shutting down and abandoning module VariantManager (581)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (580)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (577)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (575)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (573)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module TakeSequencer (571)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module TakeMovieScene (569)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module SynthesisEditor (567)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ResonanceAudio (565)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (563)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (561)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module InputDebugging (559)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (557)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ModelingOperators (555)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (553)
+[2023.02.28-22.28.50:820][517]LogModuleManager: Shutting down and abandoning module ModelingComponents (551)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module GeometryFramework (550)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (547)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module MeshModelingTools (545)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module GooglePAD (543)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module AssetTags (541)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (539)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (537)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (535)
+[2023.02.28-22.28.50:821][517]LogModuleManager: Shutting down and abandoning module DynamicMesh (533)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (531)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (529)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module AudioCapture (527)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (526)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (523)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module AppleImageUtils (521)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module AndroidPermission (519)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (517)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (515)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (513)
+[2023.02.28-22.28.50:822][517]LogOpenImageDenoise: OIDN shutting down
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (511)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module UVEditorTools (509)
+[2023.02.28-22.28.50:822][517]LogModuleManager: Shutting down and abandoning module UVEditor (507)
+[2023.02.28-22.28.50:823][517]LogModuleManager: Shutting down and abandoning module MeshLODToolset (505)
+[2023.02.28-22.28.50:823][517]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (503)
+[2023.02.28-22.28.50:823][517]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (501)
+[2023.02.28-22.28.50:824][517]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (499)
+[2023.02.28-22.28.50:824][517]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (497)
+[2023.02.28-22.28.50:824][517]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (495)
+[2023.02.28-22.28.50:824][517]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (493)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (491)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module Iris (489)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (487)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (485)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (484)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (482)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (479)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (477)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (475)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module ChaosNiagara (473)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (471)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module FractureEditor (469)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module DataflowNodes (467)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module DataflowEditor (465)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module BackChannel (463)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (461)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module AutomationUtils (459)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (457)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module InterchangeTests (455)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (453)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (451)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module ControlRigSpline (449)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (447)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (445)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module AlembicImporter (443)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module AlembicLibrary (442)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCache (441)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (440)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.02.28-22.28.50:825][517]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.02.28-22.28.50:826][517]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.02.28-22.28.50:826][517]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.02.28-22.28.50:826][517]LogModuleManager: Shutting down and abandoning module TcpMessaging (425)
+[2023.02.28-22.28.50:927][517]LogModuleManager: Shutting down and abandoning module Paper2D (423)
+[2023.02.28-22.28.50:927][517]LogModuleManager: Shutting down and abandoning module UdpMessaging (421)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (419)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module ActorSequence (417)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (415)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module AnimationSharing (413)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (411)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module DataValidation (409)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (407)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module FacialAnimation (405)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (403)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module TreeMap (402)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (399)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (397)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module SoundFields (395)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module Synthesis (393)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module SignificanceManager (391)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (389)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundEditor (387)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module AudioWidgets (386)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (385)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (381)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundEngine (379)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module WaveTable (378)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (376)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (373)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (371)
+[2023.02.28-22.28.51:028][517]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (369)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (367)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (365)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (363)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module CableComponent (361)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (359)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (358)
+[2023.02.28-22.28.51:029][517]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (355)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (353)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module PBIK (351)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module FullBodyIK (349)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (347)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module TakeRecorder (346)
+[2023.02.28-22.28.51:032][517]LogModuleManager: Shutting down and abandoning module LevelEditor (344)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (343)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (341)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (339)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module MainFrame (337)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module HotReload (336)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module ChaosCaching (331)
+[2023.02.28-22.28.51:035][517]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (329)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module GameplayCameras (327)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (325)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module Niagara (323)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module SignalProcessing (322)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module NiagaraEditor (320)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module ContentBrowser (319)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module ToolMenus (318)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module ContentBrowserData (316)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module NiagaraCore (311)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (309)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module IKRig (307)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (305)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module ControlRig (303)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module LevelSequence (302)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (295)
+[2023.02.28-22.28.51:036][517]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (293)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.02.28-22.28.51:037][517]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.02.28-22.28.51:038][517]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.02.28-22.28.51:040][517]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.02.28-22.28.51:041][517]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.02.28-22.28.51:041][517]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.02.28-22.28.51:041][517]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.02.28-22.28.51:041][517]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.02.28-22.28.51:042][517]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.02.28-22.28.51:042][517]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.02.28-22.28.51:042][517]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.02.28-22.28.51:053][517]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.02.28-22.28.51:053][517]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.02.28-22.28.51:055][517]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.02.28-22.28.51:055][517]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.02.28-22.28.51:056][517]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.02.28-22.28.51:057][517]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (112)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (110)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (108)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (106)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (104)
+[2023.02.28-22.28.51:058][517]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.02.28-22.28.51:060][517]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.02.28-22.28.51:060][517]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.02.28-22.28.51:079][517]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.02.28-22.28.51:079][517]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.02.28-22.28.51:079][517]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B332DBF1A-435B-4DD8-CDFE-2F95768C26DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=349eae32465ee58e95141b8a00ae1798%7C69be24c77ee54560b44f9108f1bd945a%7C4b641cba-02fb-4d5c-bf27-c6c30e8ce995&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.28-22.28.51:103][517]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.02.28-22.28.51:104][517]LogModuleManager: Shutting down and abandoning module PixWinPlugin (88)
+[2023.02.28-22.28.51:104][517]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (86)
+[2023.02.28-22.28.51:104][517]LogModuleManager: Shutting down and abandoning module WmfMedia (84)
+[2023.02.28-22.28.51:106][517]LogModuleManager: Shutting down and abandoning module Media (83)
+[2023.02.28-22.28.51:107][517]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (80)
+[2023.02.28-22.28.51:107][517]LogModuleManager: Shutting down and abandoning module VariantManagerContent (78)
+[2023.02.28-22.28.51:107][517]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module GLTFExporter (74)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (72)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module ChunkDownloader (68)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module AISupportModule (64)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.02.28-22.28.51:108][517]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.02.28-22.28.51:108][517]LogXGEController: Cleaning working directory: C:/Users/Teliau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.02.28-22.28.51:109][517]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.02.28-22.28.51:110][517]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.02.28-22.28.51:110][517]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.02.28-22.28.51:111][517]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.02.28-22.28.51:295][517]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.02.28-22.28.51:325][517]LogExit: Exiting.
+[2023.02.28-22.28.51:328][517]Log file closed, 02/28/23 23:28:51
