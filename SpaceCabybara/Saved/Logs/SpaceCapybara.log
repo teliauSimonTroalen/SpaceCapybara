@@ -2875,3 +2875,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.28-15.52.19:732][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 6.11 sec)
 [2023.02.28-15.52.19:738][334]AssetCheck: New page: Asset Save: Map_Teliau
 [2023.02.28-15.52.19:738][334]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-16.02.36:277][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.28-16.02.36:278][663]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.058
+[2023.02.28-16.02.36:278][663]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Teliau/Blueprint/BP_Bumper] ([2] browsable assets)...
+[2023.02.28-16.02.36:295][663]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper]
+[2023.02.28-16.02.36:295][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teliau/Blueprint/BP_Bumper]
+[2023.02.28-16.02.36:318][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto4
+[2023.02.28-16.02.36:318][663]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper_Auto4C0B0648E4DE5DE82DAFBBDBE543D93C2.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto4.uasset'
+[2023.02.28-16.02.36:319][663]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.02.28-16.12.13:650][590]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-16.12.13:741][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.28-16.12.13:780][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-16.12.13:830][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-16.12.14:104][590]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-16.12.14:104][590]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper24C7DEEB4A3843DEE92826BF6E22CCDF.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-16.12.14:110][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 6.44 sec)
+[2023.02.28-16.12.14:118][590]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-16.12.14:118][590]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-16.12.17:495][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-16.12.17:521][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-16.12.17:537][981]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-16.12.17:537][981]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper3C2C8D384036A4B6211087B081B4D130.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-16.12.17:544][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 6.49 sec)
+[2023.02.28-16.12.17:550][981]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-16.12.17:550][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
