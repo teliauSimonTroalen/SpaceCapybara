@@ -1644,3 +1644,1234 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.28-07.40.14:141][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 3.19 sec)
 [2023.02.28-07.40.14:148][587]AssetCheck: New page: Asset Save: Map_Teliau
 [2023.02.28-07.40.14:148][587]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-07.44.49:881][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-07.44.49:881][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-07.44.49:884][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_0
+[2023.02.28-07.44.49:885][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_0
+[2023.02.28-07.44.49:895][124]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.28-07.44.51:160][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-07.44.51:160][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-07.44.51:164][242]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_1
+[2023.02.28-07.44.51:165][242]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_1
+[2023.02.28-07.45.02:241][514]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-07.45.02:250][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-07.45.02:250][514]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 09:45:02)
+[2023.02.28-07.45.02:250][514]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.45.02:283][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033233s)
+[2023.02.28-07.45.02:283][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.033268s)
+[2023.02.28-07.45.02:283][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-07.45.02:284][514]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-07.45.02:284][514]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.02.28-07.45.02:334][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.28-07.45.02:336][514]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-07.45.02:336][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-07.45.02:336][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-07.45.02:337][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-07.45.02:337][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-07.45.02:337][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-07.45.02:338][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-07.45.02:352][514]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-07.45.02:352][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-07.45.02:352][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-07.45.02:352][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-07.45.02:352][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.02.28-07.45.02:352][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.02.28-07.45.02:354][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.02.28-07.45.02:354][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.02.28-07.45.02:354][514]LogInit: FAudioDevice initialized.
+[2023.02.28-07.45.02:354][514]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_Teliau'.
+[2023.02.28-07.45.02:357][514]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-07.45.02:372][514]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-08.45.02
+[2023.02.28-07.45.02:372][514]LogWorld: Bringing up level for play took: 0.014872
+[2023.02.28-07.45.02:374][514]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.02.28-07.45.02:376][514]PIE: Server logged in
+[2023.02.28-07.45.02:377][514]PIE: Play in editor total start time 0,127 seconds.
+[2023.02.28-07.45.03:660][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.45.03:660][648]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.45.03:661][648]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-07.45.03:662][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.45.03:665][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-07.45.03:670][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.45.03:711][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-07.45.03:712][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.28-07.45.03:713][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.28-07.45.03:716][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.45.03:723][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.28-07.45.03:838][649]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.02.28-07.45.09:278][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-07.45.09:286][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-07.45.09:286][229]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 09:45:09)
+[2023.02.28-07.45.09:286][229]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.45.09:317][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031517s)
+[2023.02.28-07.45.09:318][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.031540s)
+[2023.02.28-07.45.09:318][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-07.45.09:318][229]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-07.45.09:318][229]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2023.02.28-07.45.09:363][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.28-07.45.09:365][229]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-07.45.09:365][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-07.45.09:365][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-07.45.09:365][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-07.45.09:365][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-07.45.09:365][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-07.45.09:367][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-07.45.09:380][229]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-07.45.09:380][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-07.45.09:380][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-07.45.09:380][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-07.45.09:381][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.02.28-07.45.09:381][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.02.28-07.45.09:382][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.02.28-07.45.09:382][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.02.28-07.45.09:382][229]LogInit: FAudioDevice initialized.
+[2023.02.28-07.45.09:382][229]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_Teliau'.
+[2023.02.28-07.45.09:385][229]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-07.45.09:399][229]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-08.45.09
+[2023.02.28-07.45.09:399][229]LogWorld: Bringing up level for play took: 0.014598
+[2023.02.28-07.45.09:401][229]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.02.28-07.45.09:403][229]PIE: Server logged in
+[2023.02.28-07.45.09:404][229]PIE: Play in editor total start time 0,118 seconds.
+[2023.02.28-07.45.11:834][506]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.45.12:142][543]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.45.12:142][543]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.45.12:234][554]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-07.45.16:368][ 39]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.45.16:377][ 40]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.45.18:146][246]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-07.45.18:146][246]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-07.45.19:827][445]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-07.45.28:469][477]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-07.45.35:177][282]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-07.45.41:735][ 69]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.45.43:794][316]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.45.43:794][316]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.45.45:621][526]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.45.45:621][526]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.45.50:482][ 90]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.45.50:482][ 90]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.45.52:109][284]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-07.45.59:869][212]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-07.46.05:569][896]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-07.46.08:936][300]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.09:103][320]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.09:103][320]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.10:786][522]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.11:036][552]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.11:036][552]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.12:544][733]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.12:544][733]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.15:883][112]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.15:883][112]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.17:598][316]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.17:598][316]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.19:960][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.46.19:960][588]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.46.19:960][588]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-07.46.19:962][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.46.19:966][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-07.46.19:971][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.46.20:017][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.46.20:019][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.28-07.46.20:020][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.28-07.46.20:029][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.28-07.46.20:175][589]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.02.28-07.46.32:201][811]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.02.28-07.46.32:638][851]LogShaderCompilers: Display: ================================================
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: Total job queries 133, among them cache hits 8 (6.02%)
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 96 distinct outputs (76.80%)
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: RAM used: 0.99 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.28-07.46.32:639][851]LogShaderCompilers: Display: ================================================
+[2023.02.28-07.46.40:349][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-07.46.40:357][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-07.46.40:357][720]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 09:46:40)
+[2023.02.28-07.46.40:379][720]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.46.40:414][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034310s)
+[2023.02.28-07.46.40:414][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.034338s)
+[2023.02.28-07.46.40:414][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-07.46.40:414][720]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-07.46.40:414][720]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2023.02.28-07.46.40:459][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.28-07.46.40:461][720]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-07.46.40:461][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-07.46.40:461][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-07.46.40:461][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-07.46.40:461][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-07.46.40:461][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-07.46.40:463][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-07.46.40:476][720]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-07.46.40:476][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-07.46.40:476][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-07.46.40:476][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-07.46.40:477][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.02.28-07.46.40:477][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.02.28-07.46.40:478][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.02.28-07.46.40:478][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.02.28-07.46.40:478][720]LogInit: FAudioDevice initialized.
+[2023.02.28-07.46.40:478][720]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_Teliau'.
+[2023.02.28-07.46.40:480][720]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-07.46.40:496][720]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-08.46.40
+[2023.02.28-07.46.40:496][720]LogWorld: Bringing up level for play took: 0.015717
+[2023.02.28-07.46.40:498][720]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.02.28-07.46.40:501][720]PIE: Server logged in
+[2023.02.28-07.46.40:501][720]PIE: Play in editor total start time 0,145 seconds.
+[2023.02.28-07.46.42:562][942]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.43:082][  4]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.43:482][ 52]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-07.46.43:482][ 52]LogBlueprintUserMessages: [BP_GlassWall_C_3] false
+[2023.02.28-07.46.45:157][253]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.45:498][294]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.48:537][646]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.50:864][925]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-07.46.52:307][ 98]LogBlueprintUserMessages: [Bumper_C_1] Hello
+[2023.02.28-07.46.52:680][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.46.52:680][139]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-07.46.52:680][139]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-07.46.52:682][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.46.52:685][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-07.46.52:690][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-07.46.52:732][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-07.46.52:734][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.28-07.46.52:735][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.28-07.46.52:744][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.28-07.46.52:800][140]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.02.28-07.46.54:159][281]Cmd: DELETE
+[2023.02.28-07.46.54:159][281]Cmd: ACTOR DELETE
+[2023.02.28-07.46.54:169][281]LogEditorActor: Deleted Actor: Brush
+[2023.02.28-07.46.54:215][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.28-07.46.54:231][281]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.02.28-07.47.00:143][949]Cmd: DELETE
+[2023.02.28-07.47.00:143][949]Cmd: ACTOR DELETE
+[2023.02.28-07.47.00:150][949]LogEditorActor: Deleted Actor: BP_GlassWall_C
+[2023.02.28-07.47.00:195][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.28-07.47.00:197][949]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.02.28-07.47.03:424][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-07.47.03:453][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-07.47.03:497][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.02.28-07.47.03:603][314]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-07.47.03:632][314]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau9B582FDB4B2DCD073811B99645042F7F.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-07.47.03:646][314]LogFileHelpers: Saving map 'Map_Teliau' took 0.192
+[2023.02.28-07.47.03:651][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 3.42 sec)
+[2023.02.28-07.47.03:659][314]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-07.47.03:659][314]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-08.37.33:521][649]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.032 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-09.24.30:540][282]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-09.24.30:549][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-09.24.30:549][282]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 11:24:30)
+[2023.02.28-09.24.30:549][282]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-09.24.30:583][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034151s)
+[2023.02.28-09.24.30:583][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.034195s)
+[2023.02.28-09.24.30:583][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-09.24.30:584][282]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-09.24.30:584][282]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2023.02.28-09.24.30:634][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.28-09.24.30:635][282]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-09.24.30:635][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-09.24.30:635][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-09.24.30:635][282]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-09.24.30:635][282]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-09.24.30:635][282]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-09.24.30:638][282]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-09.24.30:652][282]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-09.24.30:652][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-09.24.30:652][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-09.24.30:652][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-09.24.30:653][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.02.28-09.24.30:653][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.02.28-09.24.30:654][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.02.28-09.24.30:654][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.02.28-09.24.30:654][282]LogInit: FAudioDevice initialized.
+[2023.02.28-09.24.30:654][282]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_Teliau'.
+[2023.02.28-09.24.30:656][282]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-09.24.30:672][282]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-10.24.30
+[2023.02.28-09.24.30:673][282]LogWorld: Bringing up level for play took: 0.016027
+[2023.02.28-09.24.30:674][282]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.02.28-09.24.30:677][282]PIE: Server logged in
+[2023.02.28-09.24.30:678][282]PIE: Play in editor total start time 0,129 seconds.
+[2023.02.28-09.24.31:027][310]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.32:851][523]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-09.24.33:051][547]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.33:918][651]LogBlueprintUserMessages: [Map_Teliau_C_4] Well Done
+[2023.02.28-09.24.34:601][733]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-09.24.37:215][ 36]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.37:224][ 37]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.38:499][190]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-09.24.38:499][190]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-09.24.39:922][360]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-09.24.39:922][360]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.41:022][492]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.41:255][520]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.44:855][952]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-09.24.44:855][952]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.44:877][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.24.44:877][952]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-09.24.44:878][952]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-09.24.44:880][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.24.44:883][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-09.24.44:889][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.24.44:932][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.24.44:932][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.28-09.24.44:933][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.28-09.24.44:936][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.24.44:942][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.28-09.24.45:080][953]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.02.28-09.24.46:478][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-09.24.46:486][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-09.24.46:487][112]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 11:24:46)
+[2023.02.28-09.24.46:507][112]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-09.24.46:538][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030472s)
+[2023.02.28-09.24.46:538][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.030499s)
+[2023.02.28-09.24.46:538][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-09.24.46:538][112]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-09.24.46:538][112]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2023.02.28-09.24.46:581][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.28-09.24.46:582][112]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-09.24.46:582][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-09.24.46:582][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-09.24.46:583][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-09.24.46:583][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-09.24.46:583][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-09.24.46:584][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-09.24.46:597][112]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-09.24.46:597][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-09.24.46:597][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-09.24.46:597][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-09.24.46:598][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.02.28-09.24.46:598][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.02.28-09.24.46:599][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.02.28-09.24.46:599][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.02.28-09.24.46:599][112]LogInit: FAudioDevice initialized.
+[2023.02.28-09.24.46:599][112]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map_Teliau'.
+[2023.02.28-09.24.46:602][112]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-09.24.46:616][112]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-10.24.46
+[2023.02.28-09.24.46:617][112]LogWorld: Bringing up level for play took: 0.014775
+[2023.02.28-09.24.46:618][112]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.02.28-09.24.46:620][112]PIE: Server logged in
+[2023.02.28-09.24.46:621][112]PIE: Play in editor total start time 0,135 seconds.
+[2023.02.28-09.24.50:005][506]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.50:538][570]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-09.24.54:470][ 35]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.24.55:945][212]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-09.24.55:945][212]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-09.24.57:734][425]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-09.25.08:402][705]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-09.25.08:402][705]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.25.15:889][594]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-09.25.15:889][594]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-09.25.17:297][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.25.17:297][758]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-09.25.17:298][758]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-09.25.17:300][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.25.17:303][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-09.25.17:310][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.25.17:353][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.25.17:353][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.28-09.25.17:354][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.28-09.25.17:357][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.25.17:363][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.28-09.25.17:399][759]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.02.28-09.25.21:166][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-09.25.21:198][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-09.25.21:242][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.28-09.25.21:351][204]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-09.25.21:352][204]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau2FC00E17467B278ED322FDA472F6F992.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-09.25.21:366][204]LogFileHelpers: Saving map 'Map_Teliau' took 0.168
+[2023.02.28-09.25.21:371][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 3.62 sec)
+[2023.02.28-09.25.21:381][204]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-09.25.21:381][204]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-09.37.33:527][641]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.036 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-10.37.33:528][441]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.037 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-10.43.03:780][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall_C
+[2023.02.28-10.43.03:780][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall_C
+[2023.02.28-10.43.03:793][501]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall as actor: BP_GlassWall_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_GlassWall_C_0
+[2023.02.28-10.43.03:795][501]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall as actor: BP_GlassWall_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_GlassWall_C_0
+[2023.02.28-10.43.05:883][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall_C
+[2023.02.28-10.43.05:883][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall_C
+[2023.02.28-10.43.05:890][734]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall as actor: BP_GlassWall_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_GlassWall_C_2
+[2023.02.28-10.43.05:892][734]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_GlassWall.BP_GlassWall as actor: BP_GlassWall_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_GlassWall_C_2
+[2023.02.28-10.43.06:358][777]Cmd: TRANSACTION UNDO
+[2023.02.28-10.43.06:358][777]LogEditorTransaction: Undo Create Actors
+[2023.02.28-10.43.16:273][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-10.43.16:284][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-10.43.16:284][701]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 12:43:16)
+[2023.02.28-10.43.16:313][701]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.43.16:359][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046255s)
+[2023.02.28-10.43.16:359][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.046295s)
+[2023.02.28-10.43.16:359][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-10.43.16:360][701]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-10.43.16:361][701]LogPlayLevel: PIE: World Init took: (0.002224s)
+[2023.02.28-10.43.16:570][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.02.28-10.43.16:574][701]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-10.43.16:574][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-10.43.16:574][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-10.43.16:575][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-10.43.16:575][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-10.43.16:575][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-10.43.16:577][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-10.43.16:592][701]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-10.43.16:595][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-10.43.16:595][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-10.43.16:595][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-10.43.16:595][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.02.28-10.43.16:595][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.02.28-10.43.16:597][701]LogInit: FAudioDevice initialized.
+[2023.02.28-10.43.16:597][701]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map_Teliau'.
+[2023.02.28-10.43.16:597][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.02.28-10.43.16:597][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.02.28-10.43.16:601][701]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-10.43.16:618][701]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-11.43.16
+[2023.02.28-10.43.16:619][701]LogWorld: Bringing up level for play took: 0.018039
+[2023.02.28-10.43.16:621][701]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.02.28-10.43.16:626][701]PIE: Server logged in
+[2023.02.28-10.43.16:627][701]PIE: Play in editor total start time 0,345 seconds.
+[2023.02.28-10.43.19:711][ 50]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.20:378][130]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-10.43.25:485][730]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.26:677][873]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-10.43.26:677][873]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-10.43.26:768][884]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-10.43.26:768][884]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-10.43.26:885][898]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-10.43.26:886][898]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-10.43.26:977][909]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-10.43.26:977][909]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-10.43.28:821][124]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-10.43.30:122][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.43.30:122][277]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.43.30:122][277]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-10.43.30:124][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.43.30:127][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-10.43.30:133][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.43.30:176][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-10.43.30:178][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.28-10.43.30:180][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.28-10.43.30:182][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.43.30:189][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.28-10.43.30:335][278]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.28-10.43.42:910][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-10.43.42:918][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-10.43.42:918][644]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 12:43:42)
+[2023.02.28-10.43.42:918][644]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.43.42:952][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033220s)
+[2023.02.28-10.43.42:952][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.033256s)
+[2023.02.28-10.43.42:952][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-10.43.42:952][644]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-10.43.42:952][644]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2023.02.28-10.43.43:000][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.28-10.43.43:002][644]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-10.43.43:002][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-10.43.43:002][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-10.43.43:002][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-10.43.43:002][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-10.43.43:002][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-10.43.43:004][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-10.43.43:017][644]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-10.43.43:017][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-10.43.43:017][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-10.43.43:017][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-10.43.43:018][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.28-10.43.43:018][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.02.28-10.43.43:019][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.28-10.43.43:019][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.28-10.43.43:019][644]LogInit: FAudioDevice initialized.
+[2023.02.28-10.43.43:019][644]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map_Teliau'.
+[2023.02.28-10.43.43:022][644]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-10.43.43:038][644]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-11.43.43
+[2023.02.28-10.43.43:039][644]LogWorld: Bringing up level for play took: 0.016356
+[2023.02.28-10.43.43:040][644]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.02.28-10.43.43:042][644]PIE: Server logged in
+[2023.02.28-10.43.43:043][644]PIE: Play in editor total start time 0,125 seconds.
+[2023.02.28-10.43.46:118][  0]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.46:560][ 53]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-10.43.50:394][493]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-10.43.51:026][567]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.51:176][585]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.52:656][760]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-10.43.52:656][760]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-10.43.52:745][770]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-10.43.52:745][770]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-10.43.52:864][784]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-10.43.52:864][784]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-10.43.52:959][795]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-10.43.52:959][795]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-10.43.54:812][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.43.54:812][ 11]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.43.54:813][ 11]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-10.43.54:815][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.43.54:817][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-10.43.54:823][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.43.54:867][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-10.43.54:868][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.28-10.43.54:869][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.28-10.43.54:873][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.43.54:879][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.02.28-10.43.54:924][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.28-10.43.56:386][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-10.43.56:394][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-10.43.56:394][170]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 12:43:56)
+[2023.02.28-10.43.56:422][170]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.43.56:458][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036002s)
+[2023.02.28-10.43.56:458][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.036031s)
+[2023.02.28-10.43.56:458][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-10.43.56:459][170]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-10.43.56:459][170]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2023.02.28-10.43.56:510][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.28-10.43.56:512][170]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-10.43.56:512][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-10.43.56:512][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-10.43.56:512][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-10.43.56:512][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-10.43.56:512][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-10.43.56:514][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-10.43.56:527][170]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-10.43.56:528][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-10.43.56:528][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-10.43.56:528][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-10.43.56:528][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.02.28-10.43.56:528][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.02.28-10.43.56:530][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.02.28-10.43.56:530][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.02.28-10.43.56:530][170]LogInit: FAudioDevice initialized.
+[2023.02.28-10.43.56:530][170]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map_Teliau'.
+[2023.02.28-10.43.56:532][170]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-10.43.56:549][170]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-11.43.56
+[2023.02.28-10.43.56:550][170]LogWorld: Bringing up level for play took: 0.017295
+[2023.02.28-10.43.56:551][170]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.02.28-10.43.56:554][170]PIE: Server logged in
+[2023.02.28-10.43.56:554][170]PIE: Play in editor total start time 0,16 seconds.
+[2023.02.28-10.43.58:277][361]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.43.59:261][479]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-10.44.01:849][787]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-10.44.05:026][143]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.44.05:034][144]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.44.06:508][321]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-10.44.06:508][321]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-10.44.06:601][332]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-10.44.06:601][332]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-10.44.06:718][346]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-10.44.06:718][346]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-10.44.06:818][358]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-10.44.06:818][358]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-10.44.08:387][545]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-10.44.14:623][287]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-10.44.14:623][287]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-10.44.16:392][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.44.16:392][494]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-10.44.16:393][494]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-10.44.16:395][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.44.16:398][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-10.44.16:403][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.44.16:447][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-10.44.16:448][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.28-10.44.16:449][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.28-10.44.16:452][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.44.16:459][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.02.28-10.44.16:501][495]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.28-10.44.23:437][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-10.44.23:473][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-10.44.23:519][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.28-10.44.23:636][283]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-10.44.23:637][283]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauEE5B795F4B159D6FEC4E768ED540E329.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-10.44.23:653][283]LogFileHelpers: Saving map 'Map_Teliau' took 0.181
+[2023.02.28-10.44.23:657][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 3.84 sec)
+[2023.02.28-10.44.23:665][283]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-10.44.23:665][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-11.12.00:274][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-11.12.00:308][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/UI/Import/pngwing_com" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/Import/pngwing_com.uasset" SILENT=true
+[2023.02.28-11.12.00:648][614]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/UI/Import/pngwing_com
+[2023.02.28-11.12.00:648][614]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/pngwing_comFC6031EB461BF46781A17C99578AB9CA.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/Import/pngwing_com.uasset'
+[2023.02.28-11.12.00:656][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 381 ms (total: 4.23 sec)
+[2023.02.28-11.12.00:667][614]AssetCheck: New page: Asset Save: pngwing_com
+[2023.02.28-11.12.00:667][614]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Teliau/Blueprint/UI/Import/pngwing_com.pngwing_com
+[2023.02.28-11.12.02:245][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-11.12.02:253][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-11.12.02:253][782]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 13:12:02)
+[2023.02.28-11.12.02:284][782]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-11.12.02:317][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032720s)
+[2023.02.28-11.12.02:317][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.032752s)
+[2023.02.28-11.12.02:317][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-11.12.02:317][782]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-11.12.02:318][782]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2023.02.28-11.12.02:368][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.28-11.12.02:369][782]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-11.12.02:369][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-11.12.02:369][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-11.12.02:370][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-11.12.02:370][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-11.12.02:370][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-11.12.02:371][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-11.12.02:386][782]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-11.12.02:386][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-11.12.02:386][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-11.12.02:386][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-11.12.02:387][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.02.28-11.12.02:387][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.02.28-11.12.02:389][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.02.28-11.12.02:389][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.02.28-11.12.02:389][782]LogInit: FAudioDevice initialized.
+[2023.02.28-11.12.02:389][782]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map_Teliau'.
+[2023.02.28-11.12.02:391][782]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-11.12.02:408][782]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-12.12.02
+[2023.02.28-11.12.02:409][782]LogWorld: Bringing up level for play took: 0.017051
+[2023.02.28-11.12.02:410][782]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.02.28-11.12.02:413][782]PIE: Server logged in
+[2023.02.28-11.12.02:413][782]PIE: Play in editor total start time 0,16 seconds.
+[2023.02.28-11.12.06:528][245]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-11.12.11:076][766]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.12.20:275][765]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.12.20:395][779]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.12.21:175][857]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-11.12.21:175][857]LogBlueprintUserMessages: [BP_GlassWall_C_5] false
+[2023.02.28-11.12.23:456][ 74]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-11.12.23:456][ 74]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-11.12.23:770][106]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-11.12.23:770][106]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-11.12.24:248][156]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-11.12.24:248][156]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-11.12.24:523][188]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-11.12.24:523][188]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-11.12.25:214][271]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-11.12.25:214][271]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.12.30:369][869]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-11.12.41:194][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-11.12.41:194][151]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-11.12.41:194][151]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-11.12.41:197][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-11.12.41:200][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-11.12.41:206][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-11.12.41:252][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-11.12.41:252][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.28-11.12.41:253][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.28-11.12.41:256][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-11.12.41:262][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.28-11.12.41:304][152]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.28-11.34.13:238][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-11.34.13:584][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-11.34.13:584][745]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 13:34:13)
+[2023.02.28-11.34.13:615][745]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-11.34.13:652][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036303s)
+[2023.02.28-11.34.13:652][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.036344s)
+[2023.02.28-11.34.13:652][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-11.34.13:652][745]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-11.34.13:653][745]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2023.02.28-11.34.13:708][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.28-11.34.13:710][745]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-11.34.13:710][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-11.34.13:710][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-11.34.13:711][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-11.34.13:711][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-11.34.13:711][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-11.34.13:713][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-11.34.13:729][745]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-11.34.13:730][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-11.34.13:730][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-11.34.13:730][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-11.34.13:730][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.02.28-11.34.13:730][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.02.28-11.34.13:732][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.02.28-11.34.13:732][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.02.28-11.34.13:732][745]LogInit: FAudioDevice initialized.
+[2023.02.28-11.34.13:732][745]LogAudio: Display: Audio Device (ID: 16) registered with world 'Map_Teliau'.
+[2023.02.28-11.34.13:736][745]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-11.34.13:754][745]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-12.34.13
+[2023.02.28-11.34.13:754][745]LogWorld: Bringing up level for play took: 0.017487
+[2023.02.28-11.34.13:756][745]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.02.28-11.34.13:759][745]PIE: Server logged in
+[2023.02.28-11.34.13:760][745]PIE: Play in editor total start time 0,177 seconds.
+[2023.02.28-11.34.14:220][765]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.34.15:892][915]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-11.34.18:282][141]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-11.34.22:533][558]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.34.24:341][716]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-11.34.24:341][716]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-11.34.24:427][723]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-11.34.24:427][723]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-11.34.24:545][733]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-11.34.24:545][733]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-11.34.24:634][741]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-11.34.24:634][741]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-11.34.26:710][940]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-11.34.33:314][587]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-11.34.35:946][842]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-11.34.35:946][842]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-11.34.39:436][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-11.34.39:436][185]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-11.34.39:437][185]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-11.34.39:439][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-11.34.39:442][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-11.34.39:449][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-11.34.39:506][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-11.34.39:507][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.28-11.34.39:509][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.28-11.34.39:518][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.28-11.34.39:595][186]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.28-11.37.33:518][750]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.026 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-12.37.33:519][546]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.026 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-13.37.33:519][343]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.025 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-14.37.33:518][139]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.024 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-15.24.09:254][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-15.24.09:606][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-15.24.09:606][795]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 17:24:09)
+[2023.02.28-15.24.09:606][795]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.24.09:650][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044160s)
+[2023.02.28-15.24.09:650][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.044186s)
+[2023.02.28-15.24.09:650][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-15.24.09:651][795]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-15.24.09:651][795]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2023.02.28-15.24.09:704][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.28-15.24.09:707][795]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-15.24.09:707][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-15.24.09:707][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-15.24.09:707][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-15.24.09:707][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-15.24.09:707][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-15.24.09:709][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-15.24.09:723][795]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-15.24.09:723][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-15.24.09:723][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-15.24.09:723][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-15.24.09:724][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.02.28-15.24.09:724][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.02.28-15.24.09:725][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.02.28-15.24.09:725][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.02.28-15.24.09:725][795]LogInit: FAudioDevice initialized.
+[2023.02.28-15.24.09:725][795]LogAudio: Display: Audio Device (ID: 17) registered with world 'Map_Teliau'.
+[2023.02.28-15.24.09:728][795]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-15.24.09:750][795]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-16.24.09
+[2023.02.28-15.24.09:751][795]LogWorld: Bringing up level for play took: 0.022795
+[2023.02.28-15.24.09:752][795]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.02.28-15.24.09:755][795]PIE: Server logged in
+[2023.02.28-15.24.09:755][795]PIE: Play in editor total start time 0,149 seconds.
+[2023.02.28-15.24.10:825][889]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.24.13:020][145]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-15.24.16:730][582]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.24.17:759][691]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-15.24.17:759][691]LogBlueprintUserMessages: [BP_GlassWall_C_5] false
+[2023.02.28-15.24.19:029][839]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-15.24.19:029][839]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-15.24.19:263][867]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-15.24.19:263][867]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-15.24.20:720][ 41]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-15.24.20:720][ 41]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.24.26:480][724]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-15.24.34:641][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.24.34:641][688]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.24.34:641][688]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-15.24.34:643][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.24.34:647][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-15.24.34:652][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.24.34:698][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-15.24.34:698][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.28-15.24.34:699][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.28-15.24.34:702][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.24.34:710][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.02.28-15.24.34:764][689]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.28-15.24.59:682][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.28-15.24.59:829][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto2
+[2023.02.28-15.24.59:837][614]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau_Auto21EF515FF400887877F60168BC7ED3E90.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Levels/Map_Teliau_Auto2.umap'
+[2023.02.28-15.24.59:844][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.208
+[2023.02.28-15.24.59:844][614]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2023.02.28-15.25.38:701][594]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-15.25.38:701][594]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-15.25.38:702][594]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_2
+[2023.02.28-15.25.38:704][594]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_2
+[2023.02.28-15.25.40:416][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-15.25.40:416][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper_C
+[2023.02.28-15.25.40:420][751]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_3
+[2023.02.28-15.25.40:422][751]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper as actor: BP_Bumper_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_Bumper_C_3
+[2023.02.28-15.26.15:924][652]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.02.28-15.27.02:510][932]LogEditorViewport: Clicking Background
+[2023.02.28-15.27.03:807][ 77]Cmd: DELETE
+[2023.02.28-15.27.03:807][ 77]Cmd: ACTOR DELETE
+[2023.02.28-15.27.03:921][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.03:923][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.03:924][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.03:925][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.03:987][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.28-15.27.03:990][ 77]LogEditorActor: Deleted 4 Actors (0.182 secs)
+[2023.02.28-15.27.06:317][347]Cmd: DELETE
+[2023.02.28-15.27.06:317][347]Cmd: ACTOR DELETE
+[2023.02.28-15.27.06:329][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:330][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:331][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:332][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:332][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:333][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.06:378][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.02.28-15.27.06:380][347]LogEditorActor: Deleted 6 Actors (0.064 secs)
+[2023.02.28-15.27.08:527][594]Cmd: DELETE
+[2023.02.28-15.27.08:527][594]Cmd: ACTOR DELETE
+[2023.02.28-15.27.08:539][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:540][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:541][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:542][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:543][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:544][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.08:589][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.28-15.27.08:590][594]LogEditorActor: Deleted 6 Actors (0.063 secs)
+[2023.02.28-15.27.10:130][770]Cmd: DELETE
+[2023.02.28-15.27.10:130][770]Cmd: ACTOR DELETE
+[2023.02.28-15.27.10:142][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:144][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:145][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:145][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:146][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:199][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.28-15.27.10:201][770]LogEditorActor: Deleted 5 Actors (0.072 secs)
+[2023.02.28-15.27.10:860][841]Cmd: DELETE
+[2023.02.28-15.27.10:860][841]Cmd: ACTOR DELETE
+[2023.02.28-15.27.10:873][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.10:920][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.28-15.27.10:921][841]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.02.28-15.27.11:341][884]Cmd: DELETE
+[2023.02.28-15.27.11:341][884]Cmd: ACTOR DELETE
+[2023.02.28-15.27.11:352][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.11:398][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.28-15.27.11:399][884]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.11:851][930]Cmd: DELETE
+[2023.02.28-15.27.11:851][930]Cmd: ACTOR DELETE
+[2023.02.28-15.27.11:862][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.11:910][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.28-15.27.11:911][930]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.02.28-15.27.12:278][965]Cmd: DELETE
+[2023.02.28-15.27.12:278][965]Cmd: ACTOR DELETE
+[2023.02.28-15.27.12:291][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.12:339][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.28-15.27.12:340][965]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.02.28-15.27.12:669][  3]LogEditorViewport: Clicking Background
+[2023.02.28-15.27.13:380][ 81]Cmd: DELETE
+[2023.02.28-15.27.13:380][ 81]Cmd: ACTOR DELETE
+[2023.02.28-15.27.13:391][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.13:437][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.28-15.27.13:439][ 81]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.14:017][143]Cmd: DELETE
+[2023.02.28-15.27.14:017][143]Cmd: ACTOR DELETE
+[2023.02.28-15.27.14:028][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.14:073][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.28-15.27.14:075][143]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.02.28-15.27.14:395][180]LogEditorViewport: Clicking Background
+[2023.02.28-15.27.15:190][274]LogEditorViewport: Clicking Background
+[2023.02.28-15.27.15:996][363]Cmd: DELETE
+[2023.02.28-15.27.15:996][363]Cmd: ACTOR DELETE
+[2023.02.28-15.27.16:008][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.16:054][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.28-15.27.16:056][363]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.16:708][433]Cmd: DELETE
+[2023.02.28-15.27.16:708][433]Cmd: ACTOR DELETE
+[2023.02.28-15.27.16:719][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.16:769][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.28-15.27.16:770][433]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.02.28-15.27.17:406][500]Cmd: DELETE
+[2023.02.28-15.27.17:406][500]Cmd: ACTOR DELETE
+[2023.02.28-15.27.17:417][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.17:463][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.28-15.27.17:465][500]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.18:194][580]Cmd: DELETE
+[2023.02.28-15.27.18:195][580]Cmd: ACTOR DELETE
+[2023.02.28-15.27.18:206][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.18:252][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.28-15.27.18:254][580]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.22:399][ 64]Cmd: DELETE
+[2023.02.28-15.27.22:399][ 64]Cmd: ACTOR DELETE
+[2023.02.28-15.27.22:410][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.22:456][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.28-15.27.22:457][ 64]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.02.28-15.27.24:452][296]Cmd: DELETE
+[2023.02.28-15.27.24:452][296]Cmd: ACTOR DELETE
+[2023.02.28-15.27.24:463][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.24:509][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.28-15.27.24:510][296]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.02.28-15.27.25:630][422]Cmd: DELETE
+[2023.02.28-15.27.25:630][422]Cmd: ACTOR DELETE
+[2023.02.28-15.27.25:642][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.25:687][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.02.28-15.27.25:688][422]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.27:233][600]Cmd: DELETE
+[2023.02.28-15.27.27:233][600]Cmd: ACTOR DELETE
+[2023.02.28-15.27.27:245][600]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.27:291][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.02.28-15.27.27:293][600]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.28:703][762]Cmd: DELETE
+[2023.02.28-15.27.28:703][762]Cmd: ACTOR DELETE
+[2023.02.28-15.27.28:716][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.28:761][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.28-15.27.28:762][762]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.29:733][870]Cmd: DELETE
+[2023.02.28-15.27.29:733][870]Cmd: ACTOR DELETE
+[2023.02.28-15.27.29:744][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.29:790][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.28-15.27.29:791][870]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.33:506][306]Cmd: DELETE
+[2023.02.28-15.27.33:506][306]Cmd: ACTOR DELETE
+[2023.02.28-15.27.33:517][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.33:563][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.28-15.27.33:564][306]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.02.28-15.27.34:473][408]Cmd: DELETE
+[2023.02.28-15.27.34:473][408]Cmd: ACTOR DELETE
+[2023.02.28-15.27.34:484][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.34:530][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.28-15.27.34:532][408]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.35:404][505]Cmd: DELETE
+[2023.02.28-15.27.35:404][505]Cmd: ACTOR DELETE
+[2023.02.28-15.27.35:415][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.35:461][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.28-15.27.35:463][505]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.28-15.27.37:010][683]Cmd: DELETE
+[2023.02.28-15.27.37:010][683]Cmd: ACTOR DELETE
+[2023.02.28-15.27.37:021][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.37:068][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.28-15.27.37:070][683]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2023.02.28-15.27.38:030][790]Cmd: DELETE
+[2023.02.28-15.27.38:030][790]Cmd: ACTOR DELETE
+[2023.02.28-15.27.38:042][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.38:089][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.28-15.27.38:091][790]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2023.02.28-15.27.40:074][ 19]Cmd: DELETE
+[2023.02.28-15.27.40:074][ 19]Cmd: ACTOR DELETE
+[2023.02.28-15.27.40:086][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.40:135][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.02.28-15.27.40:136][ 19]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.02.28-15.27.42:073][243]Cmd: DELETE
+[2023.02.28-15.27.42:073][243]Cmd: ACTOR DELETE
+[2023.02.28-15.27.42:084][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.42:086][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-15.27.42:130][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.28-15.27.42:131][243]LogEditorActor: Deleted 2 Actors (0.058 secs)
+[2023.02.28-15.27.47:862][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-15.27.47:870][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-15.27.47:870][894]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 17:27:47)
+[2023.02.28-15.27.47:901][894]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.27.47:957][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055922s)
+[2023.02.28-15.27.47:957][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.055952s)
+[2023.02.28-15.27.47:957][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-15.27.47:957][894]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-15.27.47:958][894]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2023.02.28-15.27.48:003][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.28-15.27.48:005][894]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-15.27.48:005][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-15.27.48:005][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-15.27.48:005][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-15.27.48:005][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-15.27.48:005][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-15.27.48:007][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-15.27.48:020][894]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-15.27.48:020][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-15.27.48:020][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-15.27.48:020][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-15.27.48:021][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.02.28-15.27.48:021][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.02.28-15.27.48:022][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.02.28-15.27.48:022][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.02.28-15.27.48:022][894]LogInit: FAudioDevice initialized.
+[2023.02.28-15.27.48:022][894]LogAudio: Display: Audio Device (ID: 18) registered with world 'Map_Teliau'.
+[2023.02.28-15.27.48:025][894]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-15.27.48:054][894]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-16.27.48
+[2023.02.28-15.27.48:054][894]LogWorld: Bringing up level for play took: 0.029439
+[2023.02.28-15.27.48:056][894]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.02.28-15.27.48:058][894]PIE: Server logged in
+[2023.02.28-15.27.48:059][894]PIE: Play in editor total start time 0,188 seconds.
+[2023.02.28-15.27.49:032][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.27.49:032][986]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.27.49:032][986]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-15.27.49:036][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.27.49:038][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-15.27.49:044][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.27.49:092][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-15.27.49:092][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.28-15.27.49:094][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.28-15.27.49:097][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.27.49:107][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.28-15.27.49:131][987]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.02.28-15.28.10:499][280]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-15.28.10:821][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-15.28.10:821][280]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 17:28:10)
+[2023.02.28-15.28.10:821][280]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.28.10:878][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057227s)
+[2023.02.28-15.28.10:878][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.057251s)
+[2023.02.28-15.28.10:878][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-15.28.10:879][280]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-15.28.10:879][280]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2023.02.28-15.28.10:926][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.28-15.28.10:928][280]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-15.28.10:928][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-15.28.10:928][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-15.28.10:928][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-15.28.10:928][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-15.28.10:928][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-15.28.10:930][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-15.28.10:942][280]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-15.28.10:942][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-15.28.10:942][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-15.28.10:942][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-15.28.10:944][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.02.28-15.28.10:944][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.02.28-15.28.10:945][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.02.28-15.28.10:945][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.02.28-15.28.10:945][280]LogInit: FAudioDevice initialized.
+[2023.02.28-15.28.10:945][280]LogAudio: Display: Audio Device (ID: 19) registered with world 'Map_Teliau'.
+[2023.02.28-15.28.10:948][280]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-15.28.10:974][280]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-16.28.10
+[2023.02.28-15.28.10:974][280]LogWorld: Bringing up level for play took: 0.026790
+[2023.02.28-15.28.10:976][280]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.02.28-15.28.10:978][280]PIE: Server logged in
+[2023.02.28-15.28.10:979][280]PIE: Play in editor total start time 0,159 seconds.
+[2023.02.28-15.28.13:078][518]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.28.14:703][712]LogBlueprintUserMessages: [BP_Door_C_1] J'ai fini de bougé
+[2023.02.28-15.28.19:195][246]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.28.20:108][349]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-15.28.20:108][349]LogBlueprintUserMessages: [BP_GlassWall_C_5] false
+[2023.02.28-15.28.22:905][638]LogBlueprintUserMessages: [BP_GlassWall_C_5] Touched
+[2023.02.28-15.28.22:905][638]LogBlueprintUserMessages: [BP_GlassWall_C_5] true
+[2023.02.28-15.28.22:998][649]LogBlueprintUserMessages: [BP_GlassWall_C_4] Touched
+[2023.02.28-15.28.22:998][649]LogBlueprintUserMessages: [BP_GlassWall_C_4] true
+[2023.02.28-15.28.23:115][663]LogBlueprintUserMessages: [BP_GlassWall_C_3] Touched
+[2023.02.28-15.28.23:115][663]LogBlueprintUserMessages: [BP_GlassWall_C_3] true
+[2023.02.28-15.28.23:207][674]LogBlueprintUserMessages: [BP_GlassWall_C_1] Touched
+[2023.02.28-15.28.23:207][674]LogBlueprintUserMessages: [BP_GlassWall_C_1] true
+[2023.02.28-15.28.26:098][ 21]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-15.28.37:874][419]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-15.28.37:874][419]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.28.41:717][880]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-15.28.46:102][399]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-15.28.46:102][399]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.28.50:413][907]LogBlueprintUserMessages: [BP_Bumper_C_1] Hello
+[2023.02.28-15.28.53:558][275]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-15.28.58:185][830]LogBlueprintUserMessages: [BP_Bumper_C_3] Hello
+[2023.02.28-15.28.59:594][999]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-15.28.59:594][999]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.29.00:101][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.29.00:101][ 57]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.29.00:101][ 57]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-15.29.00:105][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.29.00:108][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-15.29.00:114][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.29.00:161][ 57]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-15.29.00:162][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.28-15.29.00:163][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.28-15.29.00:166][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.29.00:177][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.28-15.29.00:220][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.02.28-15.29.41:666][786]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.29.49:506][672]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.29.56:535][469]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.30.00:590][949]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.30.04:419][370]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.30.07:762][761]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.28-15.30.09:041][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint_C
+[2023.02.28-15.30.09:041][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint_C
+[2023.02.28-15.30.09:042][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint as actor: BP_ZoneDeCheckPoint_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_ZoneDeCheckPoint_C_0
+[2023.02.28-15.30.09:044][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint as actor: BP_ZoneDeCheckPoint_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_ZoneDeCheckPoint_C_0
+[2023.02.28-15.30.10:156][994]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint_C
+[2023.02.28-15.30.10:156][994]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint_C
+[2023.02.28-15.30.10:159][994]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint as actor: BP_ZoneDeCheckPoint_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_ZoneDeCheckPoint_C_3
+[2023.02.28-15.30.10:160][994]LogActorFactory: Actor Factory spawned Blueprint /Game/Teliau/Blueprint/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint as actor: BP_ZoneDeCheckPoint_C /Game/Teliau/Levels/Map_Teliau.Map_Teliau:PersistentLevel.BP_ZoneDeCheckPoint_C_3
+[2023.02.28-15.30.35:822][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.28-15.30.36:180][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-15.30.36:180][721]PIE: New page: PIE session: Map_Teliau (28 févr. 2023 à 17:30:36)
+[2023.02.28-15.30.36:201][721]LogPlayLevel: Creating play world package: /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.30.36:255][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054101s)
+[2023.02.28-15.30.36:255][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Teliau/Levels/Map_Teliau.Map_Teliau to /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau (0.054129s)
+[2023.02.28-15.30.36:255][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-15.30.36:256][721]LogAIModule: Creating AISystem for world Map_Teliau
+[2023.02.28-15.30.36:256][721]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2023.02.28-15.30.36:305][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.28-15.30.36:307][721]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.28-15.30.36:307][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.28-15.30.36:307][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-15.30.36:307][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-15.30.36:307][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-15.30.36:307][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-15.30.36:309][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.28-15.30.36:322][721]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.02.28-15.30.36:322][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-15.30.36:322][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-15.30.36:322][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-15.30.36:323][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.02.28-15.30.36:323][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.02.28-15.30.36:324][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.02.28-15.30.36:324][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.02.28-15.30.36:324][721]LogInit: FAudioDevice initialized.
+[2023.02.28-15.30.36:324][721]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_Teliau'.
+[2023.02.28-15.30.36:327][721]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.02.28-15.30.36:355][721]LogWorld: Bringing World /Game/Teliau/Levels/UEDPIE_0_Map_Teliau.Map_Teliau up for play (max tick rate 0) at 2023.02.28-16.30.36
+[2023.02.28-15.30.36:355][721]LogWorld: Bringing up level for play took: 0.027799
+[2023.02.28-15.30.36:357][721]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.02.28-15.30.36:359][721]PIE: Server logged in
+[2023.02.28-15.30.36:360][721]PIE: Play in editor total start time 0,179 seconds.
+[2023.02.28-15.30.38:271][939]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.30.41:538][331]LogBlueprintUserMessages: [Map_Teliau_C_4] You died
+[2023.02.28-15.30.41:538][331]LogBlueprintUserMessages: [Map_Teliau_C_4] CheckPointPassed
+[2023.02.28-15.30.46:689][944]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.02.28-15.30.48:805][198]LogBlueprintUserMessages: [BP_Bumper_C_3] Hello
+[2023.02.28-15.30.53:391][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.30.53:391][744]LogWorld: BeginTearingDown for /Game/Teliau/Levels/UEDPIE_0_Map_Teliau
+[2023.02.28-15.30.53:392][744]LogWorld: UWorld::CleanupWorld for Map_Teliau, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-15.30.53:395][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.30.53:398][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-15.30.53:405][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-15.30.53:452][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-15.30.53:452][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.28-15.30.53:453][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.28-15.30.53:456][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-15.30.53:466][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.28-15.30.53:523][745]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.02.28-15.30.57:847][166]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-15.30.57:847][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.28-15.30.58:434][166]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.02.28-15.31.50:870][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.31.50:936][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-15.31.51:218][430]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-15.31.51:219][430]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper5925F9454C2C6EBC95C7DC9A2CD011A1.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-15.31.51:227][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 357 ms (total: 4.58 sec)
+[2023.02.28-15.31.51:236][430]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-15.31.51:236][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-15.31.52:270][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.31.52:308][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-15.31.52:366][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.28-15.31.52:557][519]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-15.31.52:558][519]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauC20BFFA141457A4A502C4DB7EFD268B3.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-15.31.52:576][519]LogFileHelpers: Saving map 'Map_Teliau' took 0.268
+[2023.02.28-15.31.52:586][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 314 ms (total: 4.90 sec)
+[2023.02.28-15.31.52:593][519]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-15.31.52:593][519]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-15.33.45:472][289]LogSlate: Took 0.004029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.28-15.34.30:897][641]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-15.34.30:987][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.28-15.34.31:021][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.34.31:073][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-15.34.31:248][641]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-15.34.31:249][641]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper4A0BE8D94107F34E83014CB4438BD656.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-15.34.31:256][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 5.13 sec)
+[2023.02.28-15.34.31:263][641]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-15.34.31:263][641]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-15.34.33:473][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.34.33:508][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-15.34.33:560][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.28-15.34.33:742][869]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-15.34.33:742][869]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_Teliau97BB53B940BD993EB3CB8FB3D3D9089E.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-15.34.33:758][869]LogFileHelpers: Saving map 'Map_Teliau' took 0.250
+[2023.02.28-15.34.33:763][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 5.42 sec)
+[2023.02.28-15.34.33:770][869]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-15.34.33:771][869]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
+[2023.02.28-15.37.33:521][493]LogDerivedDataCache: C:/Users/Teliau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.027 and deleted 0 files with total size 0 MiB. Scanned 7297 files in 3802 folders with total size 968 MiB.
+[2023.02.28-15.44.38:906][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.28-15.44.38:907][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Teliau/Levels/Map_Teliau' took 0.056
+[2023.02.28-15.44.38:908][916]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Teliau/Blueprint/BP_Bumper] ([2] browsable assets)...
+[2023.02.28-15.44.38:924][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper]
+[2023.02.28-15.44.38:924][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teliau/Blueprint/BP_Bumper]
+[2023.02.28-15.44.38:936][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto3
+[2023.02.28-15.44.38:936][916]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_Bumper_Auto3DAFA00624CCFEEABA3A20D8DD9B0357B.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Autosaves/Game/Teliau/Blueprint/BP_Bumper_Auto3.uasset'
+[2023.02.28-15.44.38:937][916]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.02.28-15.52.16:383][ 74]BlueprintLog: New page: Compile BP_Bumper
+[2023.02.28-15.52.16:473][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.28-15.52.16:514][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.52.16:555][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-15.52.16:859][ 74]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-15.52.16:860][ 74]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_BumperDCCCCA754A47DDC80E392EAC8A3B3E28.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-15.52.16:867][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 352 ms (total: 5.78 sec)
+[2023.02.28-15.52.16:874][ 74]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-15.52.16:875][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-15.52.17:377][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.52.17:403][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Blueprint/BP_Bumper" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset" SILENT=true
+[2023.02.28-15.52.17:419][126]LogSavePackage: Moving output files for package: /Game/Teliau/Blueprint/BP_Bumper
+[2023.02.28-15.52.17:419][126]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/BP_BumperF304476246DD6FCA3B6E5CA10FD8A4A1.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset'
+[2023.02.28-15.52.17:425][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 5.82 sec)
+[2023.02.28-15.52.17:431][126]AssetCheck: New page: Asset Save: BP_Bumper
+[2023.02.28-15.52.17:431][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teliau/Blueprint/BP_Bumper.BP_Bumper
+[2023.02.28-15.52.19:443][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-15.52.19:480][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teliau/Levels/Map_Teliau" FILE="D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-15.52.19:531][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.28-15.52.19:709][334]LogSavePackage: Moving output files for package: /Game/Teliau/Levels/Map_Teliau
+[2023.02.28-15.52.19:710][334]LogSavePackage: Moving 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Saved/Map_TeliauAC131A0E4A587CF5822B9C9D670ED0B5.tmp' to 'D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap'
+[2023.02.28-15.52.19:726][334]LogFileHelpers: Saving map 'Map_Teliau' took 0.247
+[2023.02.28-15.52.19:732][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 6.11 sec)
+[2023.02.28-15.52.19:738][334]AssetCheck: New page: Asset Save: Map_Teliau
+[2023.02.28-15.52.19:738][334]LogContentValidation: Display: Validating /Script/Engine.World /Game/Teliau/Levels/Map_Teliau.Map_Teliau
