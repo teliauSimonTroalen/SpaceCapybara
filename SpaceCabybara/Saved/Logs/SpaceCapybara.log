@@ -1,4 +1,4 @@
-﻿Log file open, 03/10/23 09:02:34
+Log file open, 03/10/23 09:02:34
 LogConfig: Display: Loading Android ini files took 0.05 seconds
 LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
 LogConfig: Display: Loading Mac ini files took 0.04 seconds
@@ -61,6 +61,9 @@ LogPluginManager: Mounting Engine plugin IKRig
 LogPluginManager: Mounting Engine plugin BackChannel
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosNiagara
 LogPluginManager: Mounting Engine plugin ChaosEditor
 LogPluginManager: Mounting Engine plugin ChaosCaching
 LogPluginManager: Mounting Engine plugin ChaosNiagara
@@ -132,6 +135,8 @@ LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin CableComponent
 LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin ChunkDownloader
