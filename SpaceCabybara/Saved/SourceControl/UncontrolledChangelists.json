@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_EnnemiAttaquable.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_EnnemiRun.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_EnnemiTestTP.uasset",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_MurEponge.uasset",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Materials/MM_Glas.uasset",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
@@ -49,11 +56,7 @@
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Stone/Mesh/Stone_08.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Stone/Mesh/Stone_09.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Stone/Mesh/Stone_10.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/Tuto_Julien.umap",
-				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
-				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
-				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
-				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_EnnemiAttaquable.uasset"
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/Tuto_Julien.umap"
 			]
 		}
 	]
