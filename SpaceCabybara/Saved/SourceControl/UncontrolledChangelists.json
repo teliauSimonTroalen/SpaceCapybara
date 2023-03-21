@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest4.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest4.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest3.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest2.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest1.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Interface.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset"
+			]
+		}
+	]
+}
