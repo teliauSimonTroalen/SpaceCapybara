@@ -13,7 +13,6 @@
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Fin_Teliau.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_Fantome.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Julien/levels/Julien_Gym.umap",
-				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/NewBlueprint.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Julien/levels/1_1/Map_1_1.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Julien/levels/Tuto_Julien.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest1.umap",
@@ -22,7 +21,11 @@
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest3.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest4.umap",
-				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset"
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Cylinder1.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Cylinder1.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_PressurePlate.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/NewBlueprint.uasset"
 			]
 		}
 	]
