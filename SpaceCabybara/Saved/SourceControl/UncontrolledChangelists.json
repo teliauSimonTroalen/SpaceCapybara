@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_ToyCharacter.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap"
@@ -26,6 +27,12 @@
 				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap",
 				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/Test/test.uasset"
 >>>>>>> enguerrand
+=======
+				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_StartMenu.uasset",
+				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Pause_Menu.uasset",
+				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset",
+				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Interface.uasset"
+>>>>>>> Aida
 			]
 		}
 	]
