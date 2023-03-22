@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_02_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_03_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Cable_01_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
@@ -236,6 +237,13 @@
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Tunnel_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Elemental/Mesh/Elemental_01.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Material/MI_crystal_01.uasset",
+=======
+				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/NS_beam.uasset",
+				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/NS_Linebeam.uasset",
+				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap",
+				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset",
+				"E:/unreal/spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_Conveyor.uasset",
+>>>>>>> enguerrand
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
