@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/VFX/NS_Tentacles.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_PhantomPawn.uasset",
@@ -19,6 +20,13 @@
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Pause_Menu.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap"
+=======
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Spawner.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Time.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset"
+>>>>>>> Teliau
 			]
 		}
 	]
