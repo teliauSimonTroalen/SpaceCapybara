@@ -9,7 +9,11 @@
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/Shoot.uasset",
 				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_Ennemi.uasset",
-				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Bullet.uasset"
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Bullet.uasset",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Fin_Teliau.uasset",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset",
+				"C:/Users/telia/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Time.uasset"
 			]
 		}
 	]
