@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_Ennemi.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/VFX/NS_Tentacles_3.uasset",
@@ -21,6 +22,43 @@
 				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Cylinder_circle_exte.uasset",
 				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Door.uasset"
 >>>>>>> Julien
+=======
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_beige_texture_roughness.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/M_terrain.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_beige_texture_Ao.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_beige_texture_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_beige_texture_displace.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_beige_texture_Normal.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_lavande_texture_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_mauve_texture_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_rose_texture_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Terrain/Sand_rosemauve_texture_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Mesh/Platform_01.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Mesh/Platform_02.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Mesh/Platform_03.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/Skybox_01.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/M_skyboxSB_MAT.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/Skybox_BP.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/MI_skyboxSB.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/M_space.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/grunge_01.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Cable_01.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Cable_02.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Cable_05.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Material/MI_cylindre.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_cylindre_WorldGridMaterial_001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_courbe_01_WorldGridMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Material/MI_wall_courbe.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_cylindre.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_courbe_01.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/M_assets.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Sword/Material/MI_sword.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Sword/Material/M_sword.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_courbe_01_WorldGridMaterial_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_courbe_01_WorldGridMaterial_Normal.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_cylindre_WorldGridMaterial_001_BaseColor.uasset",
+				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Wall_cylindre_WorldGridMaterial_001_Normal.uasset"
+>>>>>>> Floriane
 			]
 		}
 	]
