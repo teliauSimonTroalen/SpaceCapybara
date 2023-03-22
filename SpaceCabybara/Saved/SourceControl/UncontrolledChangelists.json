@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_02_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_03_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Cable_01_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
@@ -267,6 +268,10 @@
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Time.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset"
 >>>>>>> Teliau
+=======
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Spawner.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap"
+>>>>>>> Julien
 			]
 		}
 	]
