@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_EnnemiTestTP.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_ToyCharacter.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/VFX/NS_Tentacles.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
