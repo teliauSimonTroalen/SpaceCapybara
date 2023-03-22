@@ -5,9 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_ToyCharacter.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap"
+=======
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/MI_skyboxSB.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_cylindre.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Beige_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Lavande_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Mauve_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Rose_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Violet_LayerInfo.uasset"
+>>>>>>> Julien
 			]
 		}
 	]
