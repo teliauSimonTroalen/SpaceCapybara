@@ -5,34 +5,33 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_ToyCharacter.uasset",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap"
-=======
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/MI_skyboxSB.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_cylindre.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Beige_LayerInfo.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Lavande_LayerInfo.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Mauve_LayerInfo.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Rose_LayerInfo.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Violet_LayerInfo.uasset"
->>>>>>> Julien
-=======
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/NS_beam.uasset",
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset",
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap",
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/Test/test.uasset"
->>>>>>> enguerrand
-=======
-				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_StartMenu.uasset",
-				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Pause_Menu.uasset",
-				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset",
-				"C:/Users/PGW110/Documents/GitHub/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Interface.uasset"
->>>>>>> Aida
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Mateo/Level_1.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_Ennemi.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Interface.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/Shoot.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/Focus.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_StartMenu.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2_BuiltData.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Materials/Glass.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Floriane/M_assets.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Floriane/M_terrain.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Materials/Shaders/Color/MI_Color1.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Material/MI_wall_black.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Materials/Shaders/Color/MM_BasicMaterial.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Materials/MM_Glas.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Pause_Menu.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Menu_Main.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_EnnemiRun.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Fin_Teliau.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/Aida/PoingDansLeCul.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset"
 			]
 		}
 	]
