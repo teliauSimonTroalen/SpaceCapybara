@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Sound/ProjectSoundPack/Musiques/Space_Slasher_Loop/Space_Slasher_Loop.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Start_Menu.umap",
@@ -55,6 +56,21 @@
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset"
+=======
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Skybox/MI_skyboxSB.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_cylindre.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Beige_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Lavande_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Mauve_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Rose_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Landscape/Violet_LayerInfo.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Door.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Bumper.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_PressurePlate.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Bullet.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_courbe_01.uasset"
+>>>>>>> Julien
 			]
 		}
 	]
