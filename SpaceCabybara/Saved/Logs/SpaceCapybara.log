@@ -1331,3 +1331,268 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.22-01.41.50:798][786]AssetCheck: New page: Asset Save: L_test
 [2023.03.22-01.41.50:798][786]LogContentValidation: Display: Validating /Script/Engine.World /Game/GP/L_test.L_test
 [2023.03.22-01.41.51:564][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.22-01.43.07:434][422]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.07:502][426]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.07:534][428]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:232][463]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:262][465]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:649][494]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:692][497]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:887][510]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.08:917][512]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.09:008][519]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.09:165][529]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.09:694][568]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.43.14:765][ 40]LogEditorViewport: Clicking Background
+[2023.03.22-01.43.42:017][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.22-01.43.42:028][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-01.43.42:028][639]PIE: New page: PIE session: L_test (22 mars 2023 à 03:43:42)
+[2023.03.22-01.43.42:059][639]LogPlayLevel: Creating play world package: /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.43.42:063][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003582s)
+[2023.03.22-01.43.42:063][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GP/L_test.L_test to /Game/GP/UEDPIE_0_L_test.L_test (0.003621s)
+[2023.03.22-01.43.42:063][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.43.42:064][639]LogAIModule: Creating AISystem for world L_test
+[2023.03.22-01.43.42:064][639]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2023.03.22-01.43.42:104][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.22-01.43.42:107][639]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-01.43.42:107][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.22-01.43.42:107][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-01.43.42:107][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-01.43.42:107][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-01.43.42:107][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-01.43.42:109][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-01.43.42:122][639]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.22-01.43.42:122][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-01.43.42:122][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-01.43.42:122][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-01.43.42:123][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.22-01.43.42:123][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.22-01.43.42:124][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.22-01.43.42:124][639]LogInit: FAudioDevice initialized.
+[2023.03.22-01.43.42:124][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.22-01.43.42:124][639]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_test'.
+[2023.03.22-01.43.42:127][639]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.03.22-01.43.42:128][639]LogWorld: Bringing World /Game/GP/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2023.03.22-02.43.42
+[2023.03.22-01.43.42:129][639]LogWorld: Bringing up level for play took: 0.001201
+[2023.03.22-01.43.42:131][639]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.03.22-01.43.42:133][639]PIE: Server logged in
+[2023.03.22-01.43.42:134][639]PIE: Play in editor total start time 0,105 seconds.
+[2023.03.22-01.43.49:561][339]LogBlueprintUserMessages: [WI_Interface_C_0] 1.0
+[2023.03.22-01.43.51:430][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.43.51:430][520]LogWorld: BeginTearingDown for /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.43.51:430][520]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.43.51:430][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.43.51:433][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-01.43.51:441][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.43.51:474][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.43.51:475][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.22-01.43.51:476][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.22-01.43.51:482][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.22-01.43.51:531][521]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.22-01.44.00:775][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GP/BP_Conveyor.BP_Conveyor
+[2023.03.22-01.44.00:775][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.44.02:731][483]LogViewport: Scene viewport resized to 1253x875, mode Windowed.
+[2023.03.22-01.44.10:639][392]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.44.11:908][539]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.44.12:996][666]BlueprintLog: New page: Compile BP_Conveyor
+[2023.03.22-01.44.13:072][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.22-01.44.13:088][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.44.13:120][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/BP_Conveyor" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_Conveyor.uasset" SILENT=true
+[2023.03.22-01.44.13:127][666]LogSavePackage: Moving output files for package: /Game/GP/BP_Conveyor
+[2023.03.22-01.44.13:127][666]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/BP_ConveyorB331BF054AEB6E26E69AFB9A24A3F65E.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/BP_Conveyor.uasset'
+[2023.03.22-01.44.13:132][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 254 ms)
+[2023.03.22-01.44.13:143][666]AssetCheck: New page: Asset Save: BP_Conveyor
+[2023.03.22-01.44.13:143][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GP/BP_Conveyor.BP_Conveyor
+[2023.03.22-01.44.13:191][667]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/GP/L_test.L_test:PersistentLevel.RecastNavMesh-Default).
+[2023.03.22-01.44.17:304][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.03.22-01.44.17:307][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.44.17:329][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/L_test" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.22-01.44.17:374][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.22-01.44.17:383][988]LogSavePackage: Moving output files for package: /Game/GP/L_test
+[2023.03.22-01.44.17:384][988]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/L_testE6304AE94451FCF6E9A161912B11C985.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap'
+[2023.03.22-01.44.17:401][988]LogFileHelpers: Saving map 'L_test' took 0.072
+[2023.03.22-01.44.17:406][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 353 ms)
+[2023.03.22-01.44.17:414][988]AssetCheck: New page: Asset Save: L_test
+[2023.03.22-01.44.17:414][988]LogContentValidation: Display: Validating /Script/Engine.World /Game/GP/L_test.L_test
+[2023.03.22-01.44.20:703][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.22-01.44.20:713][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-01.44.20:714][258]PIE: New page: PIE session: L_test (22 mars 2023 à 03:44:20)
+[2023.03.22-01.44.20:714][258]LogPlayLevel: Creating play world package: /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.44.20:717][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003549s)
+[2023.03.22-01.44.20:717][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GP/L_test.L_test to /Game/GP/UEDPIE_0_L_test.L_test (0.003581s)
+[2023.03.22-01.44.20:717][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.44.20:718][258]LogAIModule: Creating AISystem for world L_test
+[2023.03.22-01.44.20:718][258]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2023.03.22-01.44.20:765][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.22-01.44.20:766][258]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-01.44.20:766][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.22-01.44.20:766][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-01.44.20:767][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-01.44.20:767][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-01.44.20:767][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-01.44.20:769][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-01.44.20:781][258]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.22-01.44.20:781][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-01.44.20:781][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-01.44.20:781][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-01.44.20:781][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.22-01.44.20:781][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.22-01.44.20:783][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.22-01.44.20:783][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.22-01.44.20:783][258]LogInit: FAudioDevice initialized.
+[2023.03.22-01.44.20:783][258]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_test'.
+[2023.03.22-01.44.20:786][258]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.03.22-01.44.20:787][258]LogWorld: Bringing World /Game/GP/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2023.03.22-02.44.20
+[2023.03.22-01.44.20:787][258]LogWorld: Bringing up level for play took: 0.001245
+[2023.03.22-01.44.20:790][258]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.03.22-01.44.20:792][258]PIE: Server logged in
+[2023.03.22-01.44.20:793][258]PIE: Play in editor total start time 0,079 seconds.
+[2023.03.22-01.44.41:949][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.44.41:949][233]LogWorld: BeginTearingDown for /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.44.41:950][233]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.44.41:950][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.44.41:954][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-01.44.41:962][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.44.42:007][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.44.42:007][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.22-01.44.42:009][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.22-01.44.42:015][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.22-01.44.42:083][234]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: ================================================
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Total job queries 115, among them cache hits 11 (9.57%)
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 85 distinct outputs (81.73%)
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 0.53 s
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Job life time (pending + execution): average 0.47 s, max 0.54
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.54 s
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Average processing rate: 7.46 jobs/sec
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Total thread time: 0.54 s
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Total thread preprocess time: 0.00 s
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    4 times, average 0.13 sec, max 0.18 sec, min 0.08 sec)
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    4 times, average 0.13 sec, max 0.18 sec, min 0.08 sec)
+[2023.03.22-01.45.13:057][565]LogShaderCompilers: Display: ================================================
+[2023.03.22-01.45.17:644][941]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Teliau/Blueprint/Zones/BP_ZoneDeCheckPoint.BP_ZoneDeCheckPoint
+[2023.03.22-01.45.17:645][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.45.25:153][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Teliau/Blueprint/Zones/BP_ZoneDeMort.BP_ZoneDeMort
+[2023.03.22-01.45.25:154][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.45.59:282][668]BlueprintLog: New page: Compile BP_laser
+[2023.03.22-01.45.59:368][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.22-01.45.59:377][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.45.59:401][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/LaserFX/BP_laser" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset" SILENT=true
+[2023.03.22-01.45.59:405][668]LogSavePackage: Moving output files for package: /Game/GP/LaserFX/BP_laser
+[2023.03.22-01.45.59:406][668]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/BP_laser3AFFE97145FC3211CB60A9B299CE3875.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset'
+[2023.03.22-01.45.59:410][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 386 ms)
+[2023.03.22-01.45.59:422][668]AssetCheck: New page: Asset Save: BP_laser
+[2023.03.22-01.45.59:422][668]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GP/LaserFX/BP_laser.BP_laser
+[2023.03.22-01.46.00:782][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.22-01.46.00:793][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-01.46.00:793][773]PIE: New page: PIE session: L_test (22 mars 2023 à 03:46:00)
+[2023.03.22-01.46.00:793][773]LogPlayLevel: Creating play world package: /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.46.00:797][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003478s)
+[2023.03.22-01.46.00:797][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GP/L_test.L_test to /Game/GP/UEDPIE_0_L_test.L_test (0.003515s)
+[2023.03.22-01.46.00:797][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-01.46.00:797][773]LogAIModule: Creating AISystem for world L_test
+[2023.03.22-01.46.00:797][773]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2023.03.22-01.46.00:857][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.22-01.46.00:858][773]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-01.46.00:858][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.22-01.46.00:858][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-01.46.00:859][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-01.46.00:859][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-01.46.00:859][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-01.46.00:861][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-01.46.00:873][773]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.22-01.46.00:873][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-01.46.00:873][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-01.46.00:873][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-01.46.00:874][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.22-01.46.00:874][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.22-01.46.00:875][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.22-01.46.00:875][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.22-01.46.00:875][773]LogInit: FAudioDevice initialized.
+[2023.03.22-01.46.00:875][773]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_test'.
+[2023.03.22-01.46.00:878][773]LogLoad: Game class is 'Gm_ToyGameMod_C'
+[2023.03.22-01.46.00:879][773]LogWorld: Bringing World /Game/GP/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2023.03.22-02.46.00
+[2023.03.22-01.46.00:879][773]LogWorld: Bringing up level for play took: 0.001201
+[2023.03.22-01.46.00:881][773]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.22-01.46.00:884][773]PIE: Server logged in
+[2023.03.22-01.46.00:885][773]PIE: Play in editor total start time 0,092 seconds.
+[2023.03.22-01.46.06:780][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.46.06:780][319]LogWorld: BeginTearingDown for /Game/GP/UEDPIE_0_L_test
+[2023.03.22-01.46.06:780][319]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.46.06:781][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.46.06:786][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-01.46.06:794][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.46.06:854][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-01.46.06:854][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.22-01.46.06:856][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.22-01.46.06:861][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.22-01.46.06:933][320]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.22-01.46.20:717][880]BlueprintLog: New page: Compile BP_laser
+[2023.03.22-01.46.20:801][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.22-01.46.20:810][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.46.20:831][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/LaserFX/BP_laser" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset" SILENT=true
+[2023.03.22-01.46.20:835][880]LogSavePackage: Moving output files for package: /Game/GP/LaserFX/BP_laser
+[2023.03.22-01.46.20:835][880]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/BP_laser8C2ADAA54E58CF35BE63B2B88E1C481B.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset'
+[2023.03.22-01.46.20:840][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 416 ms)
+[2023.03.22-01.46.20:848][880]AssetCheck: New page: Asset Save: BP_laser
+[2023.03.22-01.46.20:848][880]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GP/LaserFX/BP_laser.BP_laser
+[2023.03.22-01.46.36:833][767]BlueprintLog: New page: Compile BP_laser
+[2023.03.22-01.46.36:916][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.03.22-01.46.36:926][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.46.36:953][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/LaserFX/BP_laser" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset" SILENT=true
+[2023.03.22-01.46.36:957][767]LogSavePackage: Moving output files for package: /Game/GP/LaserFX/BP_laser
+[2023.03.22-01.46.36:957][767]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/BP_laser437AB7DF46BA99ACCAB921AD6F297DB3.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset'
+[2023.03.22-01.46.36:963][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 453 ms)
+[2023.03.22-01.46.36:971][767]AssetCheck: New page: Asset Save: BP_laser
+[2023.03.22-01.46.36:971][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GP/LaserFX/BP_laser.BP_laser
+[2023.03.22-01.46.39:259][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.22-01.46.39:262][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-01.46.39:282][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GP/L_test" FILE="../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.22-01.46.39:340][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.03.22-01.46.39:350][972]LogSavePackage: Moving output files for package: /Game/GP/L_test
+[2023.03.22-01.46.39:351][972]LogSavePackage: Moving '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Saved/L_test1CCEFA1949A194BD2DCBE6805BB8FB85.tmp' to '../../../../spacecapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap'
+[2023.03.22-01.46.39:366][972]LogFileHelpers: Saving map 'L_test' took 0.084
+[2023.03.22-01.46.39:372][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 562 ms)
+[2023.03.22-01.46.39:380][972]AssetCheck: New page: Asset Save: L_test
+[2023.03.22-01.46.39:380][972]LogContentValidation: Display: Validating /Script/Engine.World /Game/GP/L_test.L_test
+[2023.03.22-01.47.14:075][163]LogSlate: Took 0.001297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.22-01.59.01:899][508]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.59.01:899][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.59.02:473][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.22-01.59.02:473][545]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.59.02:473][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.59.02:780][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.22-01.59.02:780][564]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.59.02:780][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-01.59.03:000][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.22-01.59.03:000][574]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-01.59.03:000][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
