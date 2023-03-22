@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Sound/ProjectSoundPack/Musiques/Space_Slasher_Loop/Space_Slasher_Loop.uasset",
 				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Start_Menu.umap",
@@ -71,6 +72,10 @@
 				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Bullet.uasset",
 				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Mesh/Wall_courbe_01.uasset"
 >>>>>>> Julien
+=======
+				"C:/Users/DELL/Desktop/Capybara/SpaceCapybara/SpaceCabybara/Content/Mateo/Level_1.umap",
+				"C:/Users/DELL/Desktop/Capybara/SpaceCapybara/SpaceCabybara/Content/Mateo/Level_Secret.umap"
+>>>>>>> Mateo
 			]
 		}
 	]
