@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_02_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Environnement/Platform/Texture/Platform_03_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/flori/OneDrive/Documents/IIM digital school/Space Capybara Studio/SpaceCapybara/SpaceCabybara/Content/Floriane/Ship/Texture/Cable_01_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
@@ -242,9 +243,30 @@
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest3.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Leveltest1.umap",
+=======
+<<<<<<< HEAD
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/VFX/NS_Tentacles.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_PhantomPawn.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_Fantome.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Julien/levels/Tuto_Julien.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Inputs/InputActions/IA_MenuPause.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Menu_Main.umap",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Inputs/InputMappingContexts/IMC_Mechaniques.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Pause_Menu.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
+				"D:/documents/GitSpaceCapy/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap"
+=======
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/BP_Spawner.uasset",
+>>>>>>> Leandro
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Levels/Map_Teliau.umap",
-				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Interface.uasset",
-				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset"
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Time.uasset",
+				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UI/WI_Main_Menu.uasset"
+>>>>>>> Teliau
 			]
 		}
 	]
