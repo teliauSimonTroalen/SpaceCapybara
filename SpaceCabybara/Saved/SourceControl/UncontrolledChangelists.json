@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/UltimateBlueprintMasterDeluxe.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/Bullet.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_EnnemiRun.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_Ennemi.uasset",
+				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest1.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest2.umap",
 				"D:/SpaceCabybara/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/LevelsTests/Leveltest3.umap",
