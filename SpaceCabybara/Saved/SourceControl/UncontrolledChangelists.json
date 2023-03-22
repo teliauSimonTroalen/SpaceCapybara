@@ -5,26 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_EnnemiRun.uasset",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Levels/L_BaseLevel.umap",
-				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/VFX/NS_Tentacles_2.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/BP_EnnemiTestTP.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_Ennemi.uasset",
-				"C:/Users/Utilisateur/Desktop/Narra design/SpaceCapybara/SpaceCabybara/Content/Teliau/Blueprint/IA/AI_EnnemiRun.uasset"
-=======
 				"C:/Users/DELL/Desktop/Capybara/SpaceCapybara/SpaceCabybara/Content/Mateo/Level_1.umap"
->>>>>>> Mateo
-=======
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/NS_beam.uasset",
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset",
-				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap"
->>>>>>> enguerrand
 			]
 		}
 	]
