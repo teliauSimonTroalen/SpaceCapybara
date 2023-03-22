@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/GameObject/PC_Epee.uasset",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/Julien/levels/lvl_2.umap",
 				"C:/Users/leand/Documents/SpaceCapybara/SpaceCabybara/Content/NePasToucher/Game/PC_ToyController.uasset",
@@ -19,6 +20,11 @@
 =======
 				"C:/Users/DELL/Desktop/Capybara/SpaceCapybara/SpaceCabybara/Content/Mateo/Level_1.umap"
 >>>>>>> Mateo
+=======
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/NS_beam.uasset",
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/LaserFX/BP_laser.uasset",
+				"C:/Users/engue/OneDrive/Documents/travail/GP-A2/Unreal/SpaceCapy/SpaceCapybara/SpaceCabybara/Content/GP/L_test.umap"
+>>>>>>> enguerrand
 			]
 		}
 	]
